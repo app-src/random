@@ -1,0 +1,1230 @@
+2022-09-19 01:10:43,893 - ERROR - livestream_saver.cookies - Failed to load cookie file /home/ashish/code/random/streamSaver/livestream_saver-main/cookie.txt: '/home/ashish/code/random/streamSaver/livestream_saver-main/cookie.txt' does not look like a Netscape format cookies file. Defaulting to empty cookie.
+2022-09-19 01:10:44,401 - DEBUG - livestream_saver.request - Initial req header items: [('Host', 'www.youtube.com'), ('User-agent', 'Mozilla/5.0 (X11; Linux x86_64; rv:89.0) Gecko/20100101 Firefox/89.0'), ('Accept-language', 'en-US,en')]
+2022-09-19 01:10:44,405 - DEBUG - livestream_saver.request - Initial res headers: Content-Type: text/html; charset=utf-8
+X-Content-Type-Options: nosniff
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Date: Sun, 18 Sep 2022 19:40:44 GMT
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=31536000
+Report-To: {"group":"youtube_main","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube_main"}]}
+Permissions-Policy: ch-ua-arch=*, ch-ua-bitness=*, ch-ua-full-version=*, ch-ua-full-version-list=*, ch-ua-model=*, ch-ua-wow64=*, ch-ua-platform=*, ch-ua-platform-version=*
+Cross-Origin-Opener-Policy-Report-Only: same-origin-allow-popups; report-to="youtube_main"
+P3P: CP="This is not a P3P policy! See http://support.google.com/accounts/answer/151657?hl=en for more info."
+Server: ESF
+X-XSS-Protection: 0
+Set-Cookie: GPS=1; Domain=.youtube.com; Expires=Sun, 18-Sep-2022 20:10:44 GMT; Path=/; Secure; HttpOnly
+Set-Cookie: YSC=CKDEf99PbtU; Domain=.youtube.com; Path=/; Secure; HttpOnly; SameSite=none
+Set-Cookie: VISITOR_INFO1_LIVE=-FIhIjcXMls; Domain=.youtube.com; Expires=Fri, 17-Mar-2023 19:40:44 GMT; Path=/; Secure; HttpOnly; SameSite=none
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+Accept-Ranges: none
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+
+
+2022-09-19 01:10:45,202 - DEBUG - livestream_saver.request - Initial req cookies after extract: Set-Cookie: GPS=1
+Set-Cookie: VISITOR_INFO1_LIVE=-FIhIjcXMls
+Set-Cookie: YSC=CKDEf99PbtU
+2022-09-19 01:10:45,202 - DEBUG - livestream_saver.request - Setting consent cookie: <Cookie CONSENT=YES+cb.20210328-17-p0.en+F+847 for .youtube.com/>
+2022-09-19 01:10:45,204 - DEBUG - livestream_saver.request - Making API request with headers:{'user-agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:89.0) Gecko/20100101 Firefox/89.0', 'accept-language': 'en-US,en', 'Content-Type': 'application/json', 'Origin': 'https://www.youtube.com', 'X-YouTube-Client-Name': '3', 'X-YouTube-Client-Version': '16.20'}
+2022-09-19 01:10:45,205 - DEBUG - livestream_saver.request - POST Request https://www.youtube.com/youtubei/v1/player?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+2022-09-19 01:10:45,205 - DEBUG - livestream_saver.request - POST Request headers: [('Cookie', 'GPS=1; YSC=CKDEf99PbtU; VISITOR_INFO1_LIVE=-FIhIjcXMls; CONSENT=YES+cb.20210328-17-p0.en+F+847'), ('User-agent', 'Mozilla/5.0 (X11; Linux x86_64; rv:89.0) Gecko/20100101 Firefox/89.0'), ('Accept-language', 'en-US,en'), ('Content-type', 'application/json'), ('Origin', 'https://www.youtube.com'), ('X-youtube-client-name', '3'), ('X-youtube-client-version', '16.20')]
+2022-09-19 01:10:45,680 - DEBUG - livestream_saver.request - REQUEST https://www.youtube.com/youtubei/v1/player?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 -> response url: https://www.youtube.com/youtubei/v1/player?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+2022-09-19 01:10:45,682 - DEBUG - livestream_saver.request - Response Status code: 200.
+Response headers:
+Content-Type: application/json; charset=UTF-8
+Vary: X-Origin
+Vary: Referer
+Date: Sun, 18 Sep 2022 19:40:45 GMT
+Server: scaffolding on HTTPServer2
+Cache-Control: private
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+Accept-Ranges: none
+Vary: Origin,Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+
+
+2022-09-19 01:10:45,780 - CRITICAL - livestream_saver.request - We are not logged in. Check the validity of your cookies!
+2022-09-19 01:10:45,782 - DEBUG - download.ICszTQA2meo - Extracted JSON from html:
+{
+    "responseContext": {
+        "visitorData": "CgtUQ3VqSEM1Q1N5NCi96J2ZBg%3D%3D",
+        "serviceTrackingParams": [
+            {
+                "service": "GFEEDBACK",
+                "params": [
+                    {
+                        "key": "is_alc_surface",
+                        "value": "false"
+                    },
+                    {
+                        "key": "ipcc",
+                        "value": "0"
+                    },
+                    {
+                        "key": "is_viewed_live",
+                        "value": "True"
+                    },
+                    {
+                        "key": "logged_in",
+                        "value": "0"
+                    },
+                    {
+                        "key": "country-type",
+                        "value": "B"
+                    },
+                    {
+                        "key": "e",
+                        "value": "24217535,24248385,23882502,24034168,24281190,24161116,24276056,24260844,24120819,24255545,24265820,24269957,24265964,24243988,24175468,24211178,24226335,24191629,1714243,24001373,24080738,24197450,24219713,24276791,24590921,24169501,39322399,24275186,24268142,24260441,24186125,24117491,24254566,24181174,23966208,24280303,24277922,24267570,23983296,24140247,24287794,24255543,23888716,24123943,23918597,24007246,24135310,23998056,24004644,24063124,24077241,24268870,24199774,24245173,23946420,24260783,24264860,24263796,24246428,24187043,24267564,23934970,24185614,24262346,24199158,24283683,24241378,24164186,24036947,24187377,24199724,24227844,24117247,24255165,24229470"
+                    }
+                ]
+            },
+            {
+                "service": "CSI",
+                "params": [
+                    {
+                        "key": "c",
+                        "value": "ANDROID"
+                    },
+                    {
+                        "key": "cver",
+                        "value": "16.20"
+                    },
+                    {
+                        "key": "yt_li",
+                        "value": "0"
+                    },
+                    {
+                        "key": "GetPlayer_rid",
+                        "value": "0x46757f4d104b7645"
+                    }
+                ]
+            },
+            {
+                "service": "GUIDED_HELP",
+                "params": [
+                    {
+                        "key": "logged_in",
+                        "value": "0"
+                    }
+                ]
+            },
+            {
+                "service": "ECATCHER",
+                "params": [
+                    {
+                        "key": "client.version",
+                        "value": "16.20"
+                    },
+                    {
+                        "key": "client.name",
+                        "value": "ANDROID"
+                    },
+                    {
+                        "key": "client.fexp",
+                        "value": "24217535,24248385,23882502,24034168,24281190,24161116,24276056,24260844,24120819,24255545,24265820,24269957,24265964,24243988,24175468,24211178,24226335,24191629,1714243,24001373,24080738,24197450,24219713,24276791,24590921,24169501,39322399,24275186,24268142,24260441,24186125,24117491,24254566,24181174,23966208,24280303,24277922,24267570,23983296,24140247,24287794,24255543,23888716,24123943,23918597,24007246,24135310,23998056,24004644,24063124,24077241,24268870,24199774,24245173,23946420,24260783,24264860,24263796,24246428,24187043,24267564,23934970,24185614,24262346,24199158,24283683,24241378,24164186,24036947,24187377,24199724,24227844,24117247,24255165,24229470"
+                    }
+                ]
+            },
+            {
+                "service": "LISTNR",
+                "params": [
+                    {
+                        "key": "e",
+                        "value": "24024517,24117491,24175468,24281190,24287794,24191629,24229470,24254870,24274141,24276791,39322399,24199158,24276056,24275186,24267570,24036947,24243988,24245173,24262371,24186125,24267564,24034168,24255165,24262346,24267539,24280303,24030282,24199774,24185614,24253783,24140247,24164186,24265820,24284036,24117247,24135310,24253767,24181174,24250570,24267628,24263796,24283683,24268142,24199724,24033252,24253780"
+                    }
+                ]
+            }
+        ]
+    },
+    "playabilityStatus": {
+        "status": "OK",
+        "reason": "This live event has ended.",
+        "playableInEmbed": true,
+        "miniplayer": {
+            "miniplayerRenderer": {
+                "playbackMode": "PLAYBACK_MODE_ALLOW"
+            }
+        },
+        "contextParams": "Q0FFU0FnZ0M="
+    },
+    "streamingData": {
+        "expiresInSeconds": "21540",
+        "adaptiveFormats": [
+            {
+                "itag": 136,
+                "url": "https://rr2---sn-8vq54voxpo-qxa6.googlevideo.com/videoplayback?expire=1663551645&ei=PXQnY7ryHcW5rtoP4vmBmAU&ip=2402%3A3a80%3A1801%3A2862%3A4ebd%3A8523%3Acd12%3A4c84&id=ICszTQA2meo.1&itag=136&source=yt_live_broadcast&requiressl=yes&mh=oa&mm=44%2C29&mn=sn-8vq54voxpo-qxa6%2Csn-8vq54voxpo-h55e&ms=lva%2Crdu&mv=m&mvi=2&pl=44&initcwndbps=355000&vprv=1&ufph=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&gir=yes&mt=1663529797&fvip=6&keepalive=yes&fexp=24001373%2C24007246&c=ANDROID&rbqsm=fr&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cufph%2Clive%2Chang%2Cnoclen%2Cmime%2Cgir&sig=AOq0QJ8wRQIhAIJlMBUDZQ-QdxvQ-GicUETk7LB-PVPLHXokv7q_kZVoAiBFNa0z7COPKeDE4nhlDLKiTFngYCKFQ_gQ5b_8kjhTSQ%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgPi5JoVtQqrNK1Wzn2H93el7R8bQizuYTkyA5p7J_q5cCIEYFPp806E6pj6MWJwoiHvlDCEppscD066V5NIRYB9H1",
+                "mimeType": "video/mp4; codecs=\"avc1.4d401f\"",
+                "bitrate": 2187400,
+                "width": 1280,
+                "height": 720,
+                "quality": "hd720",
+                "fps": 30,
+                "qualityLabel": "720p",
+                "projectionType": "RECTANGULAR",
+                "targetDurationSec": 2,
+                "maxDvrDurationSec": 43200
+            },
+            {
+                "itag": 135,
+                "url": "https://rr2---sn-8vq54voxpo-qxa6.googlevideo.com/videoplayback?expire=1663551645&ei=PXQnY7ryHcW5rtoP4vmBmAU&ip=2402%3A3a80%3A1801%3A2862%3A4ebd%3A8523%3Acd12%3A4c84&id=ICszTQA2meo.1&itag=135&source=yt_live_broadcast&requiressl=yes&mh=oa&mm=44%2C29&mn=sn-8vq54voxpo-qxa6%2Csn-8vq54voxpo-h55e&ms=lva%2Crdu&mv=m&mvi=2&pl=44&initcwndbps=355000&vprv=1&ufph=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&gir=yes&mt=1663529797&fvip=6&keepalive=yes&fexp=24001373%2C24007246&c=ANDROID&rbqsm=fr&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cufph%2Clive%2Chang%2Cnoclen%2Cmime%2Cgir&sig=AOq0QJ8wRQIgMx2L0dsSVo6EZpzz7gVNzxOvfRrDv0Qmq-AcgZ-cQtMCIQC3qRguHGdVfbVFZpE6TgzAZnkdfK1xIeMpC9Llg0r_dw%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgPi5JoVtQqrNK1Wzn2H93el7R8bQizuYTkyA5p7J_q5cCIEYFPp806E6pj6MWJwoiHvlDCEppscD066V5NIRYB9H1",
+                "mimeType": "video/mp4; codecs=\"avc1.4d401f\"",
+                "bitrate": 1077445,
+                "width": 854,
+                "height": 480,
+                "quality": "large",
+                "fps": 30,
+                "qualityLabel": "480p",
+                "projectionType": "RECTANGULAR",
+                "targetDurationSec": 2,
+                "maxDvrDurationSec": 43200
+            },
+            {
+                "itag": 134,
+                "url": "https://rr2---sn-8vq54voxpo-qxa6.googlevideo.com/videoplayback?expire=1663551645&ei=PXQnY7ryHcW5rtoP4vmBmAU&ip=2402%3A3a80%3A1801%3A2862%3A4ebd%3A8523%3Acd12%3A4c84&id=ICszTQA2meo.1&itag=134&source=yt_live_broadcast&requiressl=yes&mh=oa&mm=44%2C29&mn=sn-8vq54voxpo-qxa6%2Csn-8vq54voxpo-h55e&ms=lva%2Crdu&mv=m&mvi=2&pl=44&initcwndbps=355000&vprv=1&ufph=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&gir=yes&mt=1663529797&fvip=6&keepalive=yes&fexp=24001373%2C24007246&c=ANDROID&rbqsm=fr&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cufph%2Clive%2Chang%2Cnoclen%2Cmime%2Cgir&sig=AOq0QJ8wRAIgaT8zRLWmL3t_DT2EL42tptYfa0jE-HLhAEHPXx-FVKQCIEeJfJIExLW9Usq6RDvHrUpGWE1YNlFvF-2ifyr9P9dn&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgPi5JoVtQqrNK1Wzn2H93el7R8bQizuYTkyA5p7J_q5cCIEYFPp806E6pj6MWJwoiHvlDCEppscD066V5NIRYB9H1",
+                "mimeType": "video/mp4; codecs=\"avc1.4d401e\"",
+                "bitrate": 772630,
+                "width": 640,
+                "height": 360,
+                "quality": "medium",
+                "fps": 30,
+                "qualityLabel": "360p",
+                "projectionType": "RECTANGULAR",
+                "targetDurationSec": 2,
+                "maxDvrDurationSec": 43200,
+                "highReplication": true
+            },
+            {
+                "itag": 133,
+                "url": "https://rr2---sn-8vq54voxpo-qxa6.googlevideo.com/videoplayback?expire=1663551645&ei=PXQnY7ryHcW5rtoP4vmBmAU&ip=2402%3A3a80%3A1801%3A2862%3A4ebd%3A8523%3Acd12%3A4c84&id=ICszTQA2meo.1&itag=133&source=yt_live_broadcast&requiressl=yes&mh=oa&mm=44%2C29&mn=sn-8vq54voxpo-qxa6%2Csn-8vq54voxpo-h55e&ms=lva%2Crdu&mv=m&mvi=2&pl=44&initcwndbps=355000&vprv=1&ufph=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&gir=yes&mt=1663529797&fvip=6&keepalive=yes&fexp=24001373%2C24007246&c=ANDROID&rbqsm=fr&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cufph%2Clive%2Chang%2Cnoclen%2Cmime%2Cgir&sig=AOq0QJ8wRQIhAOkAcBk2gNcReiHlRI18_MmX4woBu3H-I8zqsMQ7VHdTAiBdvJ6ugioOBmtJ2v8T8f6s0znHGvsnKeGvZdREqvCMEg%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgPi5JoVtQqrNK1Wzn2H93el7R8bQizuYTkyA5p7J_q5cCIEYFPp806E6pj6MWJwoiHvlDCEppscD066V5NIRYB9H1",
+                "mimeType": "video/mp4; codecs=\"avc1.4d4015\"",
+                "bitrate": 419256,
+                "width": 426,
+                "height": 240,
+                "quality": "small",
+                "fps": 30,
+                "qualityLabel": "240p",
+                "projectionType": "RECTANGULAR",
+                "targetDurationSec": 2,
+                "maxDvrDurationSec": 43200
+            },
+            {
+                "itag": 160,
+                "url": "https://rr2---sn-8vq54voxpo-qxa6.googlevideo.com/videoplayback?expire=1663551645&ei=PXQnY7ryHcW5rtoP4vmBmAU&ip=2402%3A3a80%3A1801%3A2862%3A4ebd%3A8523%3Acd12%3A4c84&id=ICszTQA2meo.1&itag=160&source=yt_live_broadcast&requiressl=yes&mh=oa&mm=44%2C29&mn=sn-8vq54voxpo-qxa6%2Csn-8vq54voxpo-h55e&ms=lva%2Crdu&mv=m&mvi=2&pl=44&initcwndbps=355000&vprv=1&ufph=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&gir=yes&mt=1663529797&fvip=6&keepalive=yes&fexp=24001373%2C24007246&c=ANDROID&rbqsm=fr&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cufph%2Clive%2Chang%2Cnoclen%2Cmime%2Cgir&sig=AOq0QJ8wRQIhAO_fRNSKbuHEIqktzOFmZHKhSplof4QP4m0yvCiai0CcAiA1GCHCDCppHrBp8-RXyM0LoFFMfjnpbzimbpWAsoUT0A%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgPi5JoVtQqrNK1Wzn2H93el7R8bQizuYTkyA5p7J_q5cCIEYFPp806E6pj6MWJwoiHvlDCEppscD066V5NIRYB9H1",
+                "mimeType": "video/mp4; codecs=\"avc1.4d400c\"",
+                "bitrate": 192223,
+                "width": 256,
+                "height": 144,
+                "quality": "tiny",
+                "fps": 30,
+                "qualityLabel": "144p",
+                "projectionType": "RECTANGULAR",
+                "targetDurationSec": 2,
+                "maxDvrDurationSec": 43200
+            },
+            {
+                "itag": 139,
+                "url": "https://rr2---sn-8vq54voxpo-qxa6.googlevideo.com/videoplayback?expire=1663551645&ei=PXQnY7ryHcW5rtoP4vmBmAU&ip=2402%3A3a80%3A1801%3A2862%3A4ebd%3A8523%3Acd12%3A4c84&id=ICszTQA2meo.1&itag=139&source=yt_live_broadcast&requiressl=yes&mh=oa&mm=44%2C29&mn=sn-8vq54voxpo-qxa6%2Csn-8vq54voxpo-h55e&ms=lva%2Crdu&mv=m&mvi=2&pl=44&initcwndbps=355000&vprv=1&ufph=1&live=1&hang=1&noclen=1&mime=audio%2Fmp4&gir=yes&mt=1663529797&fvip=6&keepalive=yes&fexp=24001373%2C24007246&c=ANDROID&rbqsm=fr&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cufph%2Clive%2Chang%2Cnoclen%2Cmime%2Cgir&sig=AOq0QJ8wRgIhAILDgx60pQlNxpJQ3gPeIauhokToANR2lSb392KvPSyFAiEAhC0MJc4Gvo_ZL6yhxmdZ86ntaBL3FqIlNEk_I7dYh1Y%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgPi5JoVtQqrNK1Wzn2H93el7R8bQizuYTkyA5p7J_q5cCIEYFPp806E6pj6MWJwoiHvlDCEppscD066V5NIRYB9H1",
+                "mimeType": "audio/mp4; codecs=\"mp4a.40.5\"",
+                "bitrate": 64000,
+                "quality": "tiny",
+                "projectionType": "RECTANGULAR",
+                "targetDurationSec": 2,
+                "maxDvrDurationSec": 43200,
+                "audioQuality": "AUDIO_QUALITY_LOW",
+                "audioSampleRate": "22050",
+                "audioChannels": 2
+            },
+            {
+                "itag": 140,
+                "url": "https://rr2---sn-8vq54voxpo-qxa6.googlevideo.com/videoplayback?expire=1663551645&ei=PXQnY7ryHcW5rtoP4vmBmAU&ip=2402%3A3a80%3A1801%3A2862%3A4ebd%3A8523%3Acd12%3A4c84&id=ICszTQA2meo.1&itag=140&source=yt_live_broadcast&requiressl=yes&mh=oa&mm=44%2C29&mn=sn-8vq54voxpo-qxa6%2Csn-8vq54voxpo-h55e&ms=lva%2Crdu&mv=m&mvi=2&pl=44&initcwndbps=355000&vprv=1&ufph=1&live=1&hang=1&noclen=1&mime=audio%2Fmp4&gir=yes&mt=1663529797&fvip=6&keepalive=yes&fexp=24001373%2C24007246&c=ANDROID&rbqsm=fr&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cufph%2Clive%2Chang%2Cnoclen%2Cmime%2Cgir&sig=AOq0QJ8wRQIhANKn7qsBCnfUwPaK5MhTDrP__2Z4_HYlqPlNeEimWXKmAiAsRC9jMcArz9XM2-oMyqm6MX_fZi1qO6pJk770l5NCkA%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgPi5JoVtQqrNK1Wzn2H93el7R8bQizuYTkyA5p7J_q5cCIEYFPp806E6pj6MWJwoiHvlDCEppscD066V5NIRYB9H1",
+                "mimeType": "audio/mp4; codecs=\"mp4a.40.2\"",
+                "bitrate": 144000,
+                "quality": "tiny",
+                "projectionType": "RECTANGULAR",
+                "targetDurationSec": 2,
+                "maxDvrDurationSec": 43200,
+                "highReplication": true,
+                "audioQuality": "AUDIO_QUALITY_MEDIUM",
+                "audioSampleRate": "44100",
+                "audioChannels": 2
+            }
+        ],
+        "dashManifestUrl": "https://manifest.googlevideo.com/api/manifest/dash/expire/1663551645/ei/PXQnY7ryHcW5rtoP4vmBmAU/ip/2402%3A3a80%3A1801%3A2862%3A4ebd%3A8523%3Acd12%3A4c84/id/ICszTQA2meo.1/source/yt_live_broadcast/requiressl/yes/as/fmp4_audio_clear%2Cwebm_audio_clear%2Cwebm2_audio_clear%2Cfmp4_sd_hd_clear%2Cwebm2_sd_hd_clear/force_finished/1/vprv/1/pacing/0/itag_bl/376%2C377%2C384%2C385%2C612%2C613%2C617%2C619%2C623%2C628%2C655%2C656%2C660%2C662%2C666%2C671/keepalive/yes/fexp/24001373%2C24007246/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cas%2Cforce_finished%2Cvprv%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAOVkMpSoMIdH2Qqse7pAgg5UE0AGxrgnCkotaI33XJ4OAiEAwUGcMSqmUo31JmWfHIGQ0tNJnRMUSNiXiCNbmCr6iCA%3D",
+        "hlsManifestUrl": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663551645/ei/PXQnY7ryHcW5rtoP4vmBmAU/ip/2402%3A3a80%3A1801%3A2862%3A4ebd%3A8523%3Acd12%3A4c84/id/ICszTQA2meo.1/source/yt_live_broadcast/requiressl/yes/hfr/1/force_finished/1/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/CLEAN/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cforce_finished%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAPeZ154Qwkq_cgMJdEHoC6IKZlXNz6aYE_wFXQj8H8q_AiBaTYWab1hmcMN1qpIdhrGUqZsvytbOM4p7X1NNjBo9uw%3D%3D/file/index.m3u8"
+    },
+    "videoDetails": {
+        "videoId": "ICszTQA2meo",
+        "title": "Session 2 - Compose Camp'22 |  Ashish | GDSC ADGITM",
+        "lengthSeconds": "4748",
+        "channelId": "UCmK_5EYqjkbwxwZkc1K-xYA",
+        "isOwnerViewing": false,
+        "shortDescription": "Hey Coders & Coding Enthusiasts!👨🏻‍💻\r\n\r\nDo you wish to learn more about android development & build apps faster ?🙋🏻‍♂\r\nAfter the 1st successful~ session, We GDSC-ADGITM is super excited to introduce you the Session 2 -COMPOSE CAMP’22! ✨🥳 Here, you’d be able to gain knowledge related to android development using Jetpack compose 💫\r\n\r\nAnd guess what?\r\n\r\nNo prior coding experience required😱, anyone can begin and learn!\r\n\r\nWe will be having hands on workshops which includes theory and practical implications that's needed in the industry!\r\nSo, get your laptops and headphones and let’s get compose-ing! ✨✨\r\n\r\nTopic: Basic UI & Scrollable list\r\nDate & Time: 4 Pm Sunday, 18 Sept 2022\r\n\r\nWin exciting Swags & chance to join GDSC-ADGITM at the end of event.\r\n\r\nRegistration deadline for Session-2 of the Workshop is 18th September,2022 \r\nLink : https://gdsc.community.dev/e/mzjt7y/\nsheetID: https://docs.google.com/document/d/1EGznMW2i_rWP1KSDITzS3PKYl3PIkmIv69zMLYnV42k/edit?usp=sharing\n\n\nCouldn't be a part of gdsc? Don't worry we got you covered.\nBe the part of GDSC family 🤩\nFollow , like & connect with us on our social media pages. 😇\n\n🔹 Instagram: https://instagram.com/gdsc_adgitm?igshid=YmMyMTA2M2Y=\n\n\n🔹 Twitter: https://twitter.com/gdsc_adgitm?t=tub04bsVw9WG47ODSwRNEg&s=09\n\n\n🔹 LinkedIn: https://www.linkedin.com/company/dscadgitm/\n\n\n#ComposeCamp, #ComposeCampIndia  \n#googledevelopers #googledeveloperstudentclubs #googleads #android #jetpack #adgitm #ggsipudelhi #DeveloperStudentClubs #development #appdevelopment",
+        "isCrawlable": true,
+        "thumbnail": {
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/ICszTQA2meo/default.jpg?v=632696a3",
+                    "width": 120,
+                    "height": 90
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/ICszTQA2meo/mqdefault.jpg?v=632696a3",
+                    "width": 320,
+                    "height": 180
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/ICszTQA2meo/hqdefault.jpg?v=632696a3",
+                    "width": 480,
+                    "height": 360
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/ICszTQA2meo/sddefault.jpg?v=632696a3",
+                    "width": 640,
+                    "height": 480
+                }
+            ]
+        },
+        "allowRatings": true,
+        "viewCount": "2588",
+        "author": "GDSC ADGITM",
+        "isLowLatencyLiveStream": true,
+        "isPrivate": false,
+        "isUnpluggedCorpus": false,
+        "latencyClass": "MDE_STREAM_OPTIMIZATIONS_RENDERER_LATENCY_LOW",
+        "isLiveContent": true,
+        "isPostLiveDvr": true
+    },
+    "adBreakParams": "",
+    "playerSettingsMenuData": {
+        "loggingDirectives": {
+            "trackingParams": "CAEQtc4GIhMI-oS9q4yf-gIVxZxLBR3ifABT",
+            "visibility": {
+                "types": "12"
+            },
+            "enableDisplayloggerExperiment": true
+        }
+    }
+}
+2022-09-19 01:10:45,782 - DEBUG - download.ICszTQA2meo - Checking metadata items ("Session 2 - Compose Camp'22 |  Ashish | GDSC ADGITM", "Hey Coders & Coding Enthusiasts!👨🏻\u200d💻\r\n\r\nDo you wish to learn more about android development & build apps faster ?🙋🏻\u200d♂\r\nAfter the 1st successful~ session, We GDSC-ADGITM is super excited to introduce you the Session 2 -COMPOSE CAMP’22! ✨🥳 Here, you’d be able to gain knowledge related to android development using Jetpack compose 💫\r\n\r\nAnd guess what?\r\n\r\nNo prior coding experience required😱, anyone can begin and learn!\r\n\r\nWe will be having hands on workshops which includes theory and practical implications that's needed in the industry!\r\nSo, get your laptops and headphones and let’s get compose-ing! ✨✨\r\n\r\nTopic: Basic UI & Scrollable list\r\nDate & Time: 4 Pm Sunday, 18 Sept 2022\r\n\r\nWin exciting Swags & chance to join GDSC-ADGITM at the end of event.\r\n\r\nRegistration deadline for Session-2 of the Workshop is 18th September,2022 \r\nLink : https://gdsc.community.dev/e/mzjt7y/\nsheetID: https://docs.google.com/document/d/1EGznMW2i_rWP1KSDITzS3PKYl3PIkmIv69zMLYnV42k/edit?usp=sharing\n\n\nCouldn't be a part of gdsc? Don't worry we got you covered.\nBe the part of GDSC family 🤩\nFollow , like & connect with us on our social media pages. 😇\n\n🔹 Instagram: https://instagram.com/gdsc_adgitm?igshid=YmMyMTA2M2Y=\n\n\n🔹 Twitter: https://twitter.com/gdsc_adgitm?t=tub04bsVw9WG47ODSwRNEg&s=09\n\n\n🔹 LinkedIn: https://www.linkedin.com/company/dscadgitm/\n\n\n#ComposeCamp, #ComposeCampIndia  \n#googledevelopers #googledeveloperstudentclubs #googleads #android #jetpack #adgitm #ggsipudelhi #DeveloperStudentClubs #development #appdevelopment") against None and None
+
+2022-09-19 01:10:45,783 - INFO - download.ICszTQA2meo - Will start downloading from segment number 0.
+2022-09-19 01:10:45,783 - DEBUG - download.ICszTQA2meo - update_status()...
+2022-09-19 01:10:45,783 - DEBUG - livestream_saver.request - Making API request with headers:{'user-agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:89.0) Gecko/20100101 Firefox/89.0', 'accept-language': 'en-US,en', 'Content-Type': 'application/json', 'Origin': 'https://www.youtube.com', 'X-YouTube-Client-Name': '3', 'X-YouTube-Client-Version': '16.20'}
+2022-09-19 01:10:45,784 - DEBUG - livestream_saver.request - POST Request https://www.youtube.com/youtubei/v1/player?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+2022-09-19 01:10:45,784 - DEBUG - livestream_saver.request - POST Request headers: [('Cookie', 'GPS=1; YSC=CKDEf99PbtU; VISITOR_INFO1_LIVE=-FIhIjcXMls; CONSENT=YES+cb.20210328-17-p0.en+F+847'), ('User-agent', 'Mozilla/5.0 (X11; Linux x86_64; rv:89.0) Gecko/20100101 Firefox/89.0'), ('Accept-language', 'en-US,en'), ('Content-type', 'application/json'), ('Origin', 'https://www.youtube.com'), ('X-youtube-client-name', '3'), ('X-youtube-client-version', '16.20')]
+2022-09-19 01:10:46,287 - DEBUG - livestream_saver.request - REQUEST https://www.youtube.com/youtubei/v1/player?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 -> response url: https://www.youtube.com/youtubei/v1/player?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+2022-09-19 01:10:46,289 - DEBUG - livestream_saver.request - Response Status code: 200.
+Response headers:
+Content-Type: application/json; charset=UTF-8
+Vary: X-Origin
+Vary: Referer
+Date: Sun, 18 Sep 2022 19:40:46 GMT
+Server: scaffolding on HTTPServer2
+Cache-Control: private
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+Accept-Ranges: none
+Vary: Origin,Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+
+
+2022-09-19 01:10:46,397 - DEBUG - download.ICszTQA2meo - Extracted JSON from html:
+{
+    "responseContext": {
+        "visitorData": "Cgt4OFFlRkNHN3N2cyi-6J2ZBg%3D%3D",
+        "serviceTrackingParams": [
+            {
+                "service": "GFEEDBACK",
+                "params": [
+                    {
+                        "key": "ipcc",
+                        "value": "0"
+                    },
+                    {
+                        "key": "is_viewed_live",
+                        "value": "True"
+                    },
+                    {
+                        "key": "is_alc_surface",
+                        "value": "false"
+                    },
+                    {
+                        "key": "logged_in",
+                        "value": "0"
+                    },
+                    {
+                        "key": "country-type",
+                        "value": "B"
+                    },
+                    {
+                        "key": "e",
+                        "value": "24246427,24255543,24276553,24140247,24231053,24286017,23983296,24283682,23946420,24245173,24239354,24199774,24277923,24264937,24279749,23998056,24275335,24063124,24004644,24135310,24007246,23918597,24036948,24077241,24123943,24199158,24262346,24268860,24175469,24185614,23934970,24260783,24257029,24267564,24187043,24224266,24263796,24264860,23882503,24117247,24227844,24108447,24199724,24241378,24187377,24164186,24276056,24275322,24161116,24281190,24034168,24248385,24217535,24290276,24249175,23885487,1714243,24286005,24001373,24191629,24226335,24269957,24267569,24260890,24260465,24211178,24260844,24243988,24206153,24255545,24244167,24265964,24265820,24276148,24290395,24197450,24275186,24590921,24169501,24219713,24276791,24080738,39322399,23858057,24279727,23966208,24280303,24181174,24254566,24117491,24120820,24260441,23981192,24268869,24268142"
+                    }
+                ]
+            },
+            {
+                "service": "CSI",
+                "params": [
+                    {
+                        "key": "c",
+                        "value": "ANDROID"
+                    },
+                    {
+                        "key": "cver",
+                        "value": "16.20"
+                    },
+                    {
+                        "key": "yt_li",
+                        "value": "0"
+                    },
+                    {
+                        "key": "GetPlayer_rid",
+                        "value": "0x04db6c2ea16592ae"
+                    }
+                ]
+            },
+            {
+                "service": "GUIDED_HELP",
+                "params": [
+                    {
+                        "key": "logged_in",
+                        "value": "0"
+                    }
+                ]
+            },
+            {
+                "service": "ECATCHER",
+                "params": [
+                    {
+                        "key": "client.version",
+                        "value": "16.20"
+                    },
+                    {
+                        "key": "client.name",
+                        "value": "ANDROID"
+                    },
+                    {
+                        "key": "client.fexp",
+                        "value": "24246427,24255543,24276553,24140247,24231053,24286017,23983296,24283682,23946420,24245173,24239354,24199774,24277923,24264937,24279749,23998056,24275335,24063124,24004644,24135310,24007246,23918597,24036948,24077241,24123943,24199158,24262346,24268860,24175469,24185614,23934970,24260783,24257029,24267564,24187043,24224266,24263796,24264860,23882503,24117247,24227844,24108447,24199724,24241378,24187377,24164186,24276056,24275322,24161116,24281190,24034168,24248385,24217535,24290276,24249175,23885487,1714243,24286005,24001373,24191629,24226335,24269957,24267569,24260890,24260465,24211178,24260844,24243988,24206153,24255545,24244167,24265964,24265820,24276148,24290395,24197450,24275186,24590921,24169501,24219713,24276791,24080738,39322399,23858057,24279727,23966208,24280303,24181174,24254566,24117491,24120820,24260441,23981192,24268869,24268142"
+                    }
+                ]
+            },
+            {
+                "service": "LISTNR",
+                "params": [
+                    {
+                        "key": "e",
+                        "value": "24033252,24253780,24024517,24268142,24276056,24254870,24281190,24283682,24290063,24274141,24264688,24257029,24199158,24253784,24276791,24262346,24117491,24034168,24030282,24245173,24191629,24275186,24262371,24243988,24267564,24206153,24267539,24267627,24284035,24135310,24175469,24117247,24140247,24199774,24224266,24267569,24185614,24280303,24253767,24181174,24260465,24263796,39322399,24036948,24249175,24199724,24164186,24265820,24250570,24276148"
+                    }
+                ]
+            },
+            {
+                "service": "SUGGEST",
+                "params": [
+                    {
+                        "key": "sugexp",
+                        "value": "qsatc3,ytpo.bo.me=0,ytposo.bo.me=0,ytpo.bo.ei=45358233,ytposo.bo.ei=45358233,cfro=1,ytpo.bo.me=1,ytposo.bo.me=1,ytpo.bo.ei=45358234,ytposo.bo.ei=45358234"
+                    }
+                ]
+            }
+        ]
+    },
+    "playabilityStatus": {
+        "status": "OK",
+        "reason": "This live event has ended.",
+        "playableInEmbed": true,
+        "miniplayer": {
+            "miniplayerRenderer": {
+                "playbackMode": "PLAYBACK_MODE_ALLOW"
+            }
+        },
+        "contextParams": "Q0FFU0FnZ0M="
+    },
+    "streamingData": {
+        "expiresInSeconds": "21540",
+        "adaptiveFormats": [
+            {
+                "itag": 136,
+                "url": "https://rr2---sn-8vq54voxpo-qxa6.googlevideo.com/videoplayback?expire=1663551646&ei=PnQnY9DOBMq2rtoPk_KnoA8&ip=2402%3A3a80%3A1801%3A2862%3A4ebd%3A8523%3Acd12%3A4c84&id=ICszTQA2meo.1&itag=136&source=yt_live_broadcast&requiressl=yes&mh=oa&mm=44%2C29&mn=sn-8vq54voxpo-qxa6%2Csn-8vq54voxpo-h55e&ms=lva%2Crdu&mv=m&mvi=2&pl=44&initcwndbps=335000&vprv=1&ufph=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&gir=yes&mt=1663529553&fvip=6&keepalive=yes&fexp=24001373%2C24007246&c=ANDROID&rbqsm=fr&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cufph%2Clive%2Chang%2Cnoclen%2Cmime%2Cgir&sig=AOq0QJ8wRgIhAOvv_1kKtxHo9XQnRYVVDXBsb7eXbJTQHM_Tk8ub7sRiAiEA9iPYxfjHh_aardEpyOTx3UiemuFpIBk-wqDrG4qLPU4%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhANnNEBjAaI5ZIwBPE8hJ5TsDg_ORZ2cqJevxtuYJzPSyAiBKCr7judglN_F2uUbZdVVVvwjmGa7O-5dSMCLCIQwUCA%3D%3D",
+                "mimeType": "video/mp4; codecs=\"avc1.4d401f\"",
+                "bitrate": 2187400,
+                "width": 1280,
+                "height": 720,
+                "quality": "hd720",
+                "fps": 30,
+                "qualityLabel": "720p",
+                "projectionType": "RECTANGULAR",
+                "targetDurationSec": 2,
+                "maxDvrDurationSec": 43200
+            },
+            {
+                "itag": 135,
+                "url": "https://rr2---sn-8vq54voxpo-qxa6.googlevideo.com/videoplayback?expire=1663551646&ei=PnQnY9DOBMq2rtoPk_KnoA8&ip=2402%3A3a80%3A1801%3A2862%3A4ebd%3A8523%3Acd12%3A4c84&id=ICszTQA2meo.1&itag=135&source=yt_live_broadcast&requiressl=yes&mh=oa&mm=44%2C29&mn=sn-8vq54voxpo-qxa6%2Csn-8vq54voxpo-h55e&ms=lva%2Crdu&mv=m&mvi=2&pl=44&initcwndbps=335000&vprv=1&ufph=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&gir=yes&mt=1663529553&fvip=6&keepalive=yes&fexp=24001373%2C24007246&c=ANDROID&rbqsm=fr&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cufph%2Clive%2Chang%2Cnoclen%2Cmime%2Cgir&sig=AOq0QJ8wRAIgUSMBd_-8gEuImzZtJyoZZLeVCYFytr4_elhbuZKkMEwCIFipDZRQ_b810gsK4QsB_fk_C3tnr9TgsZyw8DIdQn-W&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhANnNEBjAaI5ZIwBPE8hJ5TsDg_ORZ2cqJevxtuYJzPSyAiBKCr7judglN_F2uUbZdVVVvwjmGa7O-5dSMCLCIQwUCA%3D%3D",
+                "mimeType": "video/mp4; codecs=\"avc1.4d401f\"",
+                "bitrate": 1077445,
+                "width": 854,
+                "height": 480,
+                "quality": "large",
+                "fps": 30,
+                "qualityLabel": "480p",
+                "projectionType": "RECTANGULAR",
+                "targetDurationSec": 2,
+                "maxDvrDurationSec": 43200
+            },
+            {
+                "itag": 134,
+                "url": "https://rr2---sn-8vq54voxpo-qxa6.googlevideo.com/videoplayback?expire=1663551646&ei=PnQnY9DOBMq2rtoPk_KnoA8&ip=2402%3A3a80%3A1801%3A2862%3A4ebd%3A8523%3Acd12%3A4c84&id=ICszTQA2meo.1&itag=134&source=yt_live_broadcast&requiressl=yes&mh=oa&mm=44%2C29&mn=sn-8vq54voxpo-qxa6%2Csn-8vq54voxpo-h55e&ms=lva%2Crdu&mv=m&mvi=2&pl=44&initcwndbps=335000&vprv=1&ufph=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&gir=yes&mt=1663529553&fvip=6&keepalive=yes&fexp=24001373%2C24007246&c=ANDROID&rbqsm=fr&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cufph%2Clive%2Chang%2Cnoclen%2Cmime%2Cgir&sig=AOq0QJ8wRAIgT-MEyTMGc6vYjw8RBmIAT63EPBXN7GeCh4dy87OWt7sCIB4BAK86jy2Dg3VgQDWLKK-7NExkVtgJVe96Iy2UXq2y&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhANnNEBjAaI5ZIwBPE8hJ5TsDg_ORZ2cqJevxtuYJzPSyAiBKCr7judglN_F2uUbZdVVVvwjmGa7O-5dSMCLCIQwUCA%3D%3D",
+                "mimeType": "video/mp4; codecs=\"avc1.4d401e\"",
+                "bitrate": 772630,
+                "width": 640,
+                "height": 360,
+                "quality": "medium",
+                "fps": 30,
+                "qualityLabel": "360p",
+                "projectionType": "RECTANGULAR",
+                "targetDurationSec": 2,
+                "maxDvrDurationSec": 43200,
+                "highReplication": true
+            },
+            {
+                "itag": 133,
+                "url": "https://rr2---sn-8vq54voxpo-qxa6.googlevideo.com/videoplayback?expire=1663551646&ei=PnQnY9DOBMq2rtoPk_KnoA8&ip=2402%3A3a80%3A1801%3A2862%3A4ebd%3A8523%3Acd12%3A4c84&id=ICszTQA2meo.1&itag=133&source=yt_live_broadcast&requiressl=yes&mh=oa&mm=44%2C29&mn=sn-8vq54voxpo-qxa6%2Csn-8vq54voxpo-h55e&ms=lva%2Crdu&mv=m&mvi=2&pl=44&initcwndbps=335000&vprv=1&ufph=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&gir=yes&mt=1663529553&fvip=6&keepalive=yes&fexp=24001373%2C24007246&c=ANDROID&rbqsm=fr&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cufph%2Clive%2Chang%2Cnoclen%2Cmime%2Cgir&sig=AOq0QJ8wRgIhAKiGkd7N2PDbYE4eGJzckA9EiFt00qcC3PElfc8PNqkFAiEAzAZx3CRi32eCOGPq0_IW8uwIG5MK3N4GhdrU7jDFCCg%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhANnNEBjAaI5ZIwBPE8hJ5TsDg_ORZ2cqJevxtuYJzPSyAiBKCr7judglN_F2uUbZdVVVvwjmGa7O-5dSMCLCIQwUCA%3D%3D",
+                "mimeType": "video/mp4; codecs=\"avc1.4d4015\"",
+                "bitrate": 419256,
+                "width": 426,
+                "height": 240,
+                "quality": "small",
+                "fps": 30,
+                "qualityLabel": "240p",
+                "projectionType": "RECTANGULAR",
+                "targetDurationSec": 2,
+                "maxDvrDurationSec": 43200
+            },
+            {
+                "itag": 160,
+                "url": "https://rr2---sn-8vq54voxpo-qxa6.googlevideo.com/videoplayback?expire=1663551646&ei=PnQnY9DOBMq2rtoPk_KnoA8&ip=2402%3A3a80%3A1801%3A2862%3A4ebd%3A8523%3Acd12%3A4c84&id=ICszTQA2meo.1&itag=160&source=yt_live_broadcast&requiressl=yes&mh=oa&mm=44%2C29&mn=sn-8vq54voxpo-qxa6%2Csn-8vq54voxpo-h55e&ms=lva%2Crdu&mv=m&mvi=2&pl=44&initcwndbps=335000&vprv=1&ufph=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&gir=yes&mt=1663529553&fvip=6&keepalive=yes&fexp=24001373%2C24007246&c=ANDROID&rbqsm=fr&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cufph%2Clive%2Chang%2Cnoclen%2Cmime%2Cgir&sig=AOq0QJ8wRgIhAMdFJEOOsEoqNuzi45ENueDL__qcCM-MuJXqQvUl2AnkAiEAkIl7KeTqCxl3u6ItnG_xqzdy-EDKt5g6p9LPFvd-6yI%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhANnNEBjAaI5ZIwBPE8hJ5TsDg_ORZ2cqJevxtuYJzPSyAiBKCr7judglN_F2uUbZdVVVvwjmGa7O-5dSMCLCIQwUCA%3D%3D",
+                "mimeType": "video/mp4; codecs=\"avc1.4d400c\"",
+                "bitrate": 192223,
+                "width": 256,
+                "height": 144,
+                "quality": "tiny",
+                "fps": 30,
+                "qualityLabel": "144p",
+                "projectionType": "RECTANGULAR",
+                "targetDurationSec": 2,
+                "maxDvrDurationSec": 43200
+            },
+            {
+                "itag": 139,
+                "url": "https://rr2---sn-8vq54voxpo-qxa6.googlevideo.com/videoplayback?expire=1663551646&ei=PnQnY9DOBMq2rtoPk_KnoA8&ip=2402%3A3a80%3A1801%3A2862%3A4ebd%3A8523%3Acd12%3A4c84&id=ICszTQA2meo.1&itag=139&source=yt_live_broadcast&requiressl=yes&mh=oa&mm=44%2C29&mn=sn-8vq54voxpo-qxa6%2Csn-8vq54voxpo-h55e&ms=lva%2Crdu&mv=m&mvi=2&pl=44&initcwndbps=335000&vprv=1&ufph=1&live=1&hang=1&noclen=1&mime=audio%2Fmp4&gir=yes&mt=1663529553&fvip=6&keepalive=yes&fexp=24001373%2C24007246&c=ANDROID&rbqsm=fr&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cufph%2Clive%2Chang%2Cnoclen%2Cmime%2Cgir&sig=AOq0QJ8wRQIgcZmbFdfewb9J5MwJMkOHRdfrn25wCPLdYNR7XhZe1p8CIQCMa9mvIN9-OlakS-h1t-QvSWXZRk5ka-wXitMKcLk_qQ%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhANnNEBjAaI5ZIwBPE8hJ5TsDg_ORZ2cqJevxtuYJzPSyAiBKCr7judglN_F2uUbZdVVVvwjmGa7O-5dSMCLCIQwUCA%3D%3D",
+                "mimeType": "audio/mp4; codecs=\"mp4a.40.5\"",
+                "bitrate": 64000,
+                "quality": "tiny",
+                "projectionType": "RECTANGULAR",
+                "targetDurationSec": 2,
+                "maxDvrDurationSec": 43200,
+                "audioQuality": "AUDIO_QUALITY_LOW",
+                "audioSampleRate": "22050",
+                "audioChannels": 2
+            },
+            {
+                "itag": 140,
+                "url": "https://rr2---sn-8vq54voxpo-qxa6.googlevideo.com/videoplayback?expire=1663551646&ei=PnQnY9DOBMq2rtoPk_KnoA8&ip=2402%3A3a80%3A1801%3A2862%3A4ebd%3A8523%3Acd12%3A4c84&id=ICszTQA2meo.1&itag=140&source=yt_live_broadcast&requiressl=yes&mh=oa&mm=44%2C29&mn=sn-8vq54voxpo-qxa6%2Csn-8vq54voxpo-h55e&ms=lva%2Crdu&mv=m&mvi=2&pl=44&initcwndbps=335000&vprv=1&ufph=1&live=1&hang=1&noclen=1&mime=audio%2Fmp4&gir=yes&mt=1663529553&fvip=6&keepalive=yes&fexp=24001373%2C24007246&c=ANDROID&rbqsm=fr&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cufph%2Clive%2Chang%2Cnoclen%2Cmime%2Cgir&sig=AOq0QJ8wRAIgcY9POaWWKEhpU8WOZxeEyWiIrS4W6HK5h8G_a-76VRUCIB6FH8xG2z2B1PJKpjqDw_thyR9QuTQzxyu5SzuKUxIN&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhANnNEBjAaI5ZIwBPE8hJ5TsDg_ORZ2cqJevxtuYJzPSyAiBKCr7judglN_F2uUbZdVVVvwjmGa7O-5dSMCLCIQwUCA%3D%3D",
+                "mimeType": "audio/mp4; codecs=\"mp4a.40.2\"",
+                "bitrate": 144000,
+                "quality": "tiny",
+                "projectionType": "RECTANGULAR",
+                "targetDurationSec": 2,
+                "maxDvrDurationSec": 43200,
+                "highReplication": true,
+                "audioQuality": "AUDIO_QUALITY_MEDIUM",
+                "audioSampleRate": "44100",
+                "audioChannels": 2
+            }
+        ],
+        "dashManifestUrl": "https://manifest.googlevideo.com/api/manifest/dash/expire/1663551646/ei/PnQnY9DOBMq2rtoPk_KnoA8/ip/2402%3A3a80%3A1801%3A2862%3A4ebd%3A8523%3Acd12%3A4c84/id/ICszTQA2meo.1/source/yt_live_broadcast/requiressl/yes/as/fmp4_audio_clear%2Cwebm_audio_clear%2Cwebm2_audio_clear%2Cfmp4_sd_hd_clear%2Cwebm2_sd_hd_clear/force_finished/1/vprv/1/pacing/0/itag_bl/376%2C377%2C384%2C385%2C612%2C613%2C617%2C619%2C623%2C628%2C655%2C656%2C660%2C662%2C666%2C671/keepalive/yes/fexp/24001373%2C24007246/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cas%2Cforce_finished%2Cvprv%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgc-Pq3pggdMTDy1Hd43_HcRwQ3WePu18943tkyiwALpsCIQDLptlRF6Ca_q-TbBHzohVIiElc5eSkzh5s_L-xOxf-wQ%3D%3D",
+        "hlsManifestUrl": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663551646/ei/PnQnY9DOBMq2rtoPk_KnoA8/ip/2402%3A3a80%3A1801%3A2862%3A4ebd%3A8523%3Acd12%3A4c84/id/ICszTQA2meo.1/source/yt_live_broadcast/requiressl/yes/hfr/1/force_finished/1/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/CLEAN/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cforce_finished%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgI7RPt03r9y1oYBFu0If3suAjSmFSXOrh3x3Ezn_ooeoCIQDuqXR0u1mob2af24vEowMzwYpunFPUeKmobCObFH4G7A%3D%3D/file/index.m3u8"
+    },
+    "videoDetails": {
+        "videoId": "ICszTQA2meo",
+        "title": "Session 2 - Compose Camp'22 |  Ashish | GDSC ADGITM",
+        "lengthSeconds": "4748",
+        "channelId": "UCmK_5EYqjkbwxwZkc1K-xYA",
+        "isOwnerViewing": false,
+        "shortDescription": "Hey Coders & Coding Enthusiasts!👨🏻‍💻\r\n\r\nDo you wish to learn more about android development & build apps faster ?🙋🏻‍♂\r\nAfter the 1st successful~ session, We GDSC-ADGITM is super excited to introduce you the Session 2 -COMPOSE CAMP’22! ✨🥳 Here, you’d be able to gain knowledge related to android development using Jetpack compose 💫\r\n\r\nAnd guess what?\r\n\r\nNo prior coding experience required😱, anyone can begin and learn!\r\n\r\nWe will be having hands on workshops which includes theory and practical implications that's needed in the industry!\r\nSo, get your laptops and headphones and let’s get compose-ing! ✨✨\r\n\r\nTopic: Basic UI & Scrollable list\r\nDate & Time: 4 Pm Sunday, 18 Sept 2022\r\n\r\nWin exciting Swags & chance to join GDSC-ADGITM at the end of event.\r\n\r\nRegistration deadline for Session-2 of the Workshop is 18th September,2022 \r\nLink : https://gdsc.community.dev/e/mzjt7y/\nsheetID: https://docs.google.com/document/d/1EGznMW2i_rWP1KSDITzS3PKYl3PIkmIv69zMLYnV42k/edit?usp=sharing\n\n\nCouldn't be a part of gdsc? Don't worry we got you covered.\nBe the part of GDSC family 🤩\nFollow , like & connect with us on our social media pages. 😇\n\n🔹 Instagram: https://instagram.com/gdsc_adgitm?igshid=YmMyMTA2M2Y=\n\n\n🔹 Twitter: https://twitter.com/gdsc_adgitm?t=tub04bsVw9WG47ODSwRNEg&s=09\n\n\n🔹 LinkedIn: https://www.linkedin.com/company/dscadgitm/\n\n\n#ComposeCamp, #ComposeCampIndia  \n#googledevelopers #googledeveloperstudentclubs #googleads #android #jetpack #adgitm #ggsipudelhi #DeveloperStudentClubs #development #appdevelopment",
+        "isCrawlable": true,
+        "thumbnail": {
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/ICszTQA2meo/default.jpg?v=632696a3",
+                    "width": 120,
+                    "height": 90
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/ICszTQA2meo/mqdefault.jpg?v=632696a3",
+                    "width": 320,
+                    "height": 180
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/ICszTQA2meo/hqdefault.jpg?v=632696a3",
+                    "width": 480,
+                    "height": 360
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/ICszTQA2meo/sddefault.jpg?v=632696a3",
+                    "width": 640,
+                    "height": 480
+                }
+            ]
+        },
+        "allowRatings": true,
+        "viewCount": "2588",
+        "author": "GDSC ADGITM",
+        "isLowLatencyLiveStream": true,
+        "isPrivate": false,
+        "isUnpluggedCorpus": false,
+        "latencyClass": "MDE_STREAM_OPTIMIZATIONS_RENDERER_LATENCY_LOW",
+        "isLiveContent": true,
+        "isPostLiveDvr": true
+    },
+    "adBreakParams": "",
+    "playerSettingsMenuData": {
+        "loggingDirectives": {
+            "trackingParams": "CAEQtc4GIhMI0OXgq4yf-gIVSptLBR0T-Qn0",
+            "visibility": {
+                "types": "12"
+            },
+            "enableDisplayloggerExperiment": true
+        }
+    }
+}
+2022-09-19 01:10:46,398 - DEBUG - download.ICszTQA2meo - is_live() status Status.VIEWED_LIVE|OFFLINE
+2022-09-19 01:10:46,398 - INFO - download.ICszTQA2meo - Stream seems to be viewed live. Good.
+2022-09-19 01:10:46,398 - INFO - download.ICszTQA2meo - Stream status Status.VIEWED_LIVE|AVAILABLE
+2022-09-19 01:10:46,398 - DEBUG - download.ICszTQA2meo - Status is Status.VIEWED_LIVE|AVAILABLE.
+2022-09-19 01:10:46,399 - CRITICAL - download.ICszTQA2meo - Could not download "https://youtu.be/ICszTQA2meo": stream unavailable or not a livestream.
+2022-09-19 01:14:49,768 - INFO - livestream_saver.cookies - No cookie path submitted. Using a blank cookie jar.
+2022-09-19 01:14:50,166 - DEBUG - livestream_saver.request - Initial req header items: [('Host', 'www.youtube.com'), ('User-agent', 'Mozilla/5.0 (X11; Linux x86_64; rv:89.0) Gecko/20100101 Firefox/89.0'), ('Accept-language', 'en-US,en')]
+2022-09-19 01:14:50,169 - DEBUG - livestream_saver.request - Initial res headers: Content-Type: text/html; charset=utf-8
+X-Content-Type-Options: nosniff
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Date: Sun, 18 Sep 2022 19:44:50 GMT
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: SAMEORIGIN
+Report-To: {"group":"youtube_main","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube_main"}]}
+Permissions-Policy: ch-ua-arch=*, ch-ua-bitness=*, ch-ua-full-version=*, ch-ua-full-version-list=*, ch-ua-model=*, ch-ua-wow64=*, ch-ua-platform=*, ch-ua-platform-version=*
+Cross-Origin-Opener-Policy-Report-Only: same-origin-allow-popups; report-to="youtube_main"
+P3P: CP="This is not a P3P policy! See http://support.google.com/accounts/answer/151657?hl=en for more info."
+Server: ESF
+X-XSS-Protection: 0
+Set-Cookie: GPS=1; Domain=.youtube.com; Expires=Sun, 18-Sep-2022 20:14:50 GMT; Path=/; Secure; HttpOnly
+Set-Cookie: YSC=qfPUW-z7wOY; Domain=.youtube.com; Path=/; Secure; HttpOnly; SameSite=none
+Set-Cookie: VISITOR_INFO1_LIVE=x8DMchYRgIA; Domain=.youtube.com; Expires=Fri, 17-Mar-2023 19:44:50 GMT; Path=/; Secure; HttpOnly; SameSite=none
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+Accept-Ranges: none
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+
+
+2022-09-19 01:14:50,169 - DEBUG - livestream_saver.request - Initial req cookies after extract: Set-Cookie: GPS=1
+Set-Cookie: VISITOR_INFO1_LIVE=x8DMchYRgIA
+Set-Cookie: YSC=qfPUW-z7wOY
+2022-09-19 01:14:50,169 - DEBUG - livestream_saver.request - Setting consent cookie: <Cookie CONSENT=YES+cb.20210328-17-p0.en+F+228 for .youtube.com/>
+2022-09-19 01:14:50,170 - DEBUG - livestream_saver.request - Making API request with headers:{'user-agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:89.0) Gecko/20100101 Firefox/89.0', 'accept-language': 'en-US,en', 'Content-Type': 'application/json', 'Origin': 'https://www.youtube.com', 'X-YouTube-Client-Name': '3', 'X-YouTube-Client-Version': '16.20'}
+2022-09-19 01:14:50,170 - DEBUG - livestream_saver.request - POST Request https://www.youtube.com/youtubei/v1/player?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+2022-09-19 01:14:50,170 - DEBUG - livestream_saver.request - POST Request headers: [('Cookie', 'GPS=1; YSC=qfPUW-z7wOY; VISITOR_INFO1_LIVE=x8DMchYRgIA; CONSENT=YES+cb.20210328-17-p0.en+F+228'), ('User-agent', 'Mozilla/5.0 (X11; Linux x86_64; rv:89.0) Gecko/20100101 Firefox/89.0'), ('Accept-language', 'en-US,en'), ('Content-type', 'application/json'), ('Origin', 'https://www.youtube.com'), ('X-youtube-client-name', '3'), ('X-youtube-client-version', '16.20')]
+2022-09-19 01:14:51,011 - DEBUG - livestream_saver.request - REQUEST https://www.youtube.com/youtubei/v1/player?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 -> response url: https://www.youtube.com/youtubei/v1/player?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+2022-09-19 01:14:51,012 - DEBUG - livestream_saver.request - Response Status code: 200.
+Response headers:
+Content-Type: application/json; charset=UTF-8
+Vary: X-Origin
+Vary: Referer
+Date: Sun, 18 Sep 2022 19:44:50 GMT
+Server: scaffolding on HTTPServer2
+Cache-Control: private
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+Accept-Ranges: none
+Vary: Origin,Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+
+
+2022-09-19 01:14:51,301 - DEBUG - download.ICszTQA2meo - Extracted JSON from html:
+{
+    "responseContext": {
+        "visitorData": "CgtTVVlreUFhT2s5Yyiy6p2ZBg%3D%3D",
+        "serviceTrackingParams": [
+            {
+                "service": "GFEEDBACK",
+                "params": [
+                    {
+                        "key": "is_viewed_live",
+                        "value": "True"
+                    },
+                    {
+                        "key": "ipcc",
+                        "value": "0"
+                    },
+                    {
+                        "key": "is_alc_surface",
+                        "value": "false"
+                    },
+                    {
+                        "key": "logged_in",
+                        "value": "0"
+                    },
+                    {
+                        "key": "country-type",
+                        "value": "B"
+                    },
+                    {
+                        "key": "e",
+                        "value": "39322399,24268700,24276057,24248385,24275186,24161116,24252599,24199158,24001373,23882685,24255545,24260844,24276791,24199724,24268142,24268869,24272788,24117491,24280303,24243988,24175468,24277922,24217535,24260036,24287133,24034168,24226335,24169501,24181174,24267570,24080738,23966208,24275322,24281190,24280997,24260441,24290840,24254566,23888717,23918597,24265964,24120819,24265820,24283719,24199774,24590921,24063124,24275333,24277809,24269957,24286019,24219713,24264860,24267564,24077241,24262346,23998056,24197450,24007246,24255543,24284087,24004644,23946420,24117247,24245173,1714245,24184445,24246428,24140247,24286003,9406125,24255165,23934970,24194385,23983296,24187377,24260464,24036947,24290171,24279749,24135310,24185614,24248956,24290270,24227844,24164186,24211178,24123943,24187043,24241378,24191629,24283682,24260783"
+                    }
+                ]
+            },
+            {
+                "service": "CSI",
+                "params": [
+                    {
+                        "key": "c",
+                        "value": "ANDROID"
+                    },
+                    {
+                        "key": "cver",
+                        "value": "16.20"
+                    },
+                    {
+                        "key": "yt_li",
+                        "value": "0"
+                    },
+                    {
+                        "key": "GetPlayer_rid",
+                        "value": "0xf2e33a59418199da"
+                    }
+                ]
+            },
+            {
+                "service": "GUIDED_HELP",
+                "params": [
+                    {
+                        "key": "logged_in",
+                        "value": "0"
+                    }
+                ]
+            },
+            {
+                "service": "ECATCHER",
+                "params": [
+                    {
+                        "key": "client.version",
+                        "value": "16.20"
+                    },
+                    {
+                        "key": "client.name",
+                        "value": "ANDROID"
+                    },
+                    {
+                        "key": "client.fexp",
+                        "value": "39322399,24268700,24276057,24248385,24275186,24161116,24252599,24199158,24001373,23882685,24255545,24260844,24276791,24199724,24268142,24268869,24272788,24117491,24280303,24243988,24175468,24277922,24217535,24260036,24287133,24034168,24226335,24169501,24181174,24267570,24080738,23966208,24275322,24281190,24280997,24260441,24290840,24254566,23888717,23918597,24265964,24120819,24265820,24283719,24199774,24590921,24063124,24275333,24277809,24269957,24286019,24219713,24264860,24267564,24077241,24262346,23998056,24197450,24007246,24255543,24284087,24004644,23946420,24117247,24245173,1714245,24184445,24246428,24140247,24286003,9406125,24255165,23934970,24194385,23983296,24187377,24260464,24036947,24290171,24279749,24135310,24185614,24248956,24290270,24227844,24164186,24211178,24123943,24187043,24241378,24191629,24283682,24260783"
+                    }
+                ]
+            },
+            {
+                "service": "LISTNR",
+                "params": [
+                    {
+                        "key": "e",
+                        "value": "24199158,24267570,24276791,24274141,24254870,24175468,24024517,24283682,24284035,24255165,24267539,24243988,24253779,24267564,24275186,24191629,24036947,24030282,24034168,24117491,24245173,24262346,24287133,24280303,24260464,24185614,24253767,24253783,24290062,24276057,24140247,24199774,24117247,24135310,24033252,24262372,24250570,24164186,24265820,24268142,24199724,24281190,39322399,24267628,24181174"
+                    }
+                ]
+            },
+            {
+                "service": "SUGGEST",
+                "params": [
+                    {
+                        "key": "sugexp",
+                        "value": "ytws4_e,ytpo.bo.me=1,ytposo.bo.me=1,ytpo.bo.so.eo=1,ytposo.bo.so.eo=1,ytpo.bo.so.seb=0.9,ytposo.bo.so.seb=27.98,cfro=1,ytpo.bo.me=0,ytposo.bo.me=0"
+                    }
+                ]
+            }
+        ]
+    },
+    "playabilityStatus": {
+        "status": "OK",
+        "reason": "This live event has ended.",
+        "playableInEmbed": true,
+        "miniplayer": {
+            "miniplayerRenderer": {
+                "playbackMode": "PLAYBACK_MODE_ALLOW"
+            }
+        },
+        "contextParams": "Q0FFU0FnZ0M="
+    },
+    "streamingData": {
+        "expiresInSeconds": "21540",
+        "adaptiveFormats": [
+            {
+                "itag": 136,
+                "url": "https://rr2---sn-8vq54voxpo-qxa6.googlevideo.com/videoplayback?expire=1663551890&ei=MnUnY7CxHJOQg8UP1oyk4AM&ip=2402%3A3a80%3A1801%3A2862%3A4ebd%3A8523%3Acd12%3A4c84&id=ICszTQA2meo.1&itag=136&source=yt_live_broadcast&requiressl=yes&mh=oa&mm=44%2C29&mn=sn-8vq54voxpo-qxa6%2Csn-8vq54voxpo-h55e&ms=lva%2Crdu&mv=m&mvi=2&pl=44&initcwndbps=355000&vprv=1&ufph=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&gir=yes&mt=1663529797&fvip=6&keepalive=yes&fexp=24001373%2C24007246&c=ANDROID&rbqsm=fr&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cufph%2Clive%2Chang%2Cnoclen%2Cmime%2Cgir&sig=AOq0QJ8wRQIhANkK3COo7yGpxg8O1zYekyEAGupoGCYJm7redSlkhbX6AiAIw-aKYwDDR0n8C9wUYiWzCAgF6iTnAyaa9sizNn082g%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgWBgOwUgtDk6ru4naQWFtQ8emuvmcKwK9rhns8SmuU64CIQCVlkqDI_bpdMSqdaaXcJ5pGDSOhPQVseV6E4G9umSHUQ%3D%3D",
+                "mimeType": "video/mp4; codecs=\"avc1.4d401f\"",
+                "bitrate": 2187400,
+                "width": 1280,
+                "height": 720,
+                "quality": "hd720",
+                "fps": 30,
+                "qualityLabel": "720p",
+                "projectionType": "RECTANGULAR",
+                "targetDurationSec": 2,
+                "maxDvrDurationSec": 43200
+            },
+            {
+                "itag": 135,
+                "url": "https://rr2---sn-8vq54voxpo-qxa6.googlevideo.com/videoplayback?expire=1663551890&ei=MnUnY7CxHJOQg8UP1oyk4AM&ip=2402%3A3a80%3A1801%3A2862%3A4ebd%3A8523%3Acd12%3A4c84&id=ICszTQA2meo.1&itag=135&source=yt_live_broadcast&requiressl=yes&mh=oa&mm=44%2C29&mn=sn-8vq54voxpo-qxa6%2Csn-8vq54voxpo-h55e&ms=lva%2Crdu&mv=m&mvi=2&pl=44&initcwndbps=355000&vprv=1&ufph=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&gir=yes&mt=1663529797&fvip=6&keepalive=yes&fexp=24001373%2C24007246&c=ANDROID&rbqsm=fr&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cufph%2Clive%2Chang%2Cnoclen%2Cmime%2Cgir&sig=AOq0QJ8wRAIgBifB1vXlWUnXTxwd9cN7W4u9nHM8ktrJWzE5KN2R58kCIF2eII737TrVykH3f4MsP7bzNvcfbKF2qLSOHdY6PQFR&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgWBgOwUgtDk6ru4naQWFtQ8emuvmcKwK9rhns8SmuU64CIQCVlkqDI_bpdMSqdaaXcJ5pGDSOhPQVseV6E4G9umSHUQ%3D%3D",
+                "mimeType": "video/mp4; codecs=\"avc1.4d401f\"",
+                "bitrate": 1077445,
+                "width": 854,
+                "height": 480,
+                "quality": "large",
+                "fps": 30,
+                "qualityLabel": "480p",
+                "projectionType": "RECTANGULAR",
+                "targetDurationSec": 2,
+                "maxDvrDurationSec": 43200
+            },
+            {
+                "itag": 134,
+                "url": "https://rr2---sn-8vq54voxpo-qxa6.googlevideo.com/videoplayback?expire=1663551890&ei=MnUnY7CxHJOQg8UP1oyk4AM&ip=2402%3A3a80%3A1801%3A2862%3A4ebd%3A8523%3Acd12%3A4c84&id=ICszTQA2meo.1&itag=134&source=yt_live_broadcast&requiressl=yes&mh=oa&mm=44%2C29&mn=sn-8vq54voxpo-qxa6%2Csn-8vq54voxpo-h55e&ms=lva%2Crdu&mv=m&mvi=2&pl=44&initcwndbps=355000&vprv=1&ufph=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&gir=yes&mt=1663529797&fvip=6&keepalive=yes&fexp=24001373%2C24007246&c=ANDROID&rbqsm=fr&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cufph%2Clive%2Chang%2Cnoclen%2Cmime%2Cgir&sig=AOq0QJ8wRgIhAPmI8WdHbEkdLePVCJIYhn1LirLikxE8UYZm6XWLlO0jAiEAnUmcFtG8hCTwcQLszUKxsN35MRHQrMKJ7GwbN85H_44%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgWBgOwUgtDk6ru4naQWFtQ8emuvmcKwK9rhns8SmuU64CIQCVlkqDI_bpdMSqdaaXcJ5pGDSOhPQVseV6E4G9umSHUQ%3D%3D",
+                "mimeType": "video/mp4; codecs=\"avc1.4d401e\"",
+                "bitrate": 772630,
+                "width": 640,
+                "height": 360,
+                "quality": "medium",
+                "fps": 30,
+                "qualityLabel": "360p",
+                "projectionType": "RECTANGULAR",
+                "targetDurationSec": 2,
+                "maxDvrDurationSec": 43200,
+                "highReplication": true
+            },
+            {
+                "itag": 133,
+                "url": "https://rr2---sn-8vq54voxpo-qxa6.googlevideo.com/videoplayback?expire=1663551890&ei=MnUnY7CxHJOQg8UP1oyk4AM&ip=2402%3A3a80%3A1801%3A2862%3A4ebd%3A8523%3Acd12%3A4c84&id=ICszTQA2meo.1&itag=133&source=yt_live_broadcast&requiressl=yes&mh=oa&mm=44%2C29&mn=sn-8vq54voxpo-qxa6%2Csn-8vq54voxpo-h55e&ms=lva%2Crdu&mv=m&mvi=2&pl=44&initcwndbps=355000&vprv=1&ufph=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&gir=yes&mt=1663529797&fvip=6&keepalive=yes&fexp=24001373%2C24007246&c=ANDROID&rbqsm=fr&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cufph%2Clive%2Chang%2Cnoclen%2Cmime%2Cgir&sig=AOq0QJ8wRQIhAK0-hKzBkzlSTmJnNnW1sB9Xc6sPbPuV1AImTSWNl1UQAiBzcITSg0vjZI3xou2Gd6qnEqhv969hYgwB1l3mTjuKwQ%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgWBgOwUgtDk6ru4naQWFtQ8emuvmcKwK9rhns8SmuU64CIQCVlkqDI_bpdMSqdaaXcJ5pGDSOhPQVseV6E4G9umSHUQ%3D%3D",
+                "mimeType": "video/mp4; codecs=\"avc1.4d4015\"",
+                "bitrate": 419256,
+                "width": 426,
+                "height": 240,
+                "quality": "small",
+                "fps": 30,
+                "qualityLabel": "240p",
+                "projectionType": "RECTANGULAR",
+                "targetDurationSec": 2,
+                "maxDvrDurationSec": 43200
+            },
+            {
+                "itag": 160,
+                "url": "https://rr2---sn-8vq54voxpo-qxa6.googlevideo.com/videoplayback?expire=1663551890&ei=MnUnY7CxHJOQg8UP1oyk4AM&ip=2402%3A3a80%3A1801%3A2862%3A4ebd%3A8523%3Acd12%3A4c84&id=ICszTQA2meo.1&itag=160&source=yt_live_broadcast&requiressl=yes&mh=oa&mm=44%2C29&mn=sn-8vq54voxpo-qxa6%2Csn-8vq54voxpo-h55e&ms=lva%2Crdu&mv=m&mvi=2&pl=44&initcwndbps=355000&vprv=1&ufph=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&gir=yes&mt=1663529797&fvip=6&keepalive=yes&fexp=24001373%2C24007246&c=ANDROID&rbqsm=fr&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cufph%2Clive%2Chang%2Cnoclen%2Cmime%2Cgir&sig=AOq0QJ8wRAIgQCbCbLWyv0pGJ8l_JCj4yB9vKDGdfpThUl983hLsEAQCICoeN0GGXL1DiPX72Fs1WM3ONulsrHoxK1BbrC5DNfay&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgWBgOwUgtDk6ru4naQWFtQ8emuvmcKwK9rhns8SmuU64CIQCVlkqDI_bpdMSqdaaXcJ5pGDSOhPQVseV6E4G9umSHUQ%3D%3D",
+                "mimeType": "video/mp4; codecs=\"avc1.4d400c\"",
+                "bitrate": 192223,
+                "width": 256,
+                "height": 144,
+                "quality": "tiny",
+                "fps": 30,
+                "qualityLabel": "144p",
+                "projectionType": "RECTANGULAR",
+                "targetDurationSec": 2,
+                "maxDvrDurationSec": 43200
+            },
+            {
+                "itag": 139,
+                "url": "https://rr2---sn-8vq54voxpo-qxa6.googlevideo.com/videoplayback?expire=1663551890&ei=MnUnY7CxHJOQg8UP1oyk4AM&ip=2402%3A3a80%3A1801%3A2862%3A4ebd%3A8523%3Acd12%3A4c84&id=ICszTQA2meo.1&itag=139&source=yt_live_broadcast&requiressl=yes&mh=oa&mm=44%2C29&mn=sn-8vq54voxpo-qxa6%2Csn-8vq54voxpo-h55e&ms=lva%2Crdu&mv=m&mvi=2&pl=44&initcwndbps=355000&vprv=1&ufph=1&live=1&hang=1&noclen=1&mime=audio%2Fmp4&gir=yes&mt=1663529797&fvip=6&keepalive=yes&fexp=24001373%2C24007246&c=ANDROID&rbqsm=fr&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cufph%2Clive%2Chang%2Cnoclen%2Cmime%2Cgir&sig=AOq0QJ8wRQIhAKBrgTeDMGoO_Psuvpp3lD5rrS0aeNC4S3JalWquucn_AiB1ofSovGkk8GLTS-Mw-np0fFNgjGp0Uob5VoKab0pNyQ%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgWBgOwUgtDk6ru4naQWFtQ8emuvmcKwK9rhns8SmuU64CIQCVlkqDI_bpdMSqdaaXcJ5pGDSOhPQVseV6E4G9umSHUQ%3D%3D",
+                "mimeType": "audio/mp4; codecs=\"mp4a.40.5\"",
+                "bitrate": 64000,
+                "quality": "tiny",
+                "projectionType": "RECTANGULAR",
+                "targetDurationSec": 2,
+                "maxDvrDurationSec": 43200,
+                "audioQuality": "AUDIO_QUALITY_LOW",
+                "audioSampleRate": "22050",
+                "audioChannels": 2
+            },
+            {
+                "itag": 140,
+                "url": "https://rr2---sn-8vq54voxpo-qxa6.googlevideo.com/videoplayback?expire=1663551890&ei=MnUnY7CxHJOQg8UP1oyk4AM&ip=2402%3A3a80%3A1801%3A2862%3A4ebd%3A8523%3Acd12%3A4c84&id=ICszTQA2meo.1&itag=140&source=yt_live_broadcast&requiressl=yes&mh=oa&mm=44%2C29&mn=sn-8vq54voxpo-qxa6%2Csn-8vq54voxpo-h55e&ms=lva%2Crdu&mv=m&mvi=2&pl=44&initcwndbps=355000&vprv=1&ufph=1&live=1&hang=1&noclen=1&mime=audio%2Fmp4&gir=yes&mt=1663529797&fvip=6&keepalive=yes&fexp=24001373%2C24007246&c=ANDROID&rbqsm=fr&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cufph%2Clive%2Chang%2Cnoclen%2Cmime%2Cgir&sig=AOq0QJ8wRAIgNnrGevfxnx-b3oeIYDm3wK1wL7Eg-FwmAVXW37S17OMCIB1R5uR4z5NBbRVykEtIlsl3DlBPVDfbpurESyFRvoGB&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgWBgOwUgtDk6ru4naQWFtQ8emuvmcKwK9rhns8SmuU64CIQCVlkqDI_bpdMSqdaaXcJ5pGDSOhPQVseV6E4G9umSHUQ%3D%3D",
+                "mimeType": "audio/mp4; codecs=\"mp4a.40.2\"",
+                "bitrate": 144000,
+                "quality": "tiny",
+                "projectionType": "RECTANGULAR",
+                "targetDurationSec": 2,
+                "maxDvrDurationSec": 43200,
+                "highReplication": true,
+                "audioQuality": "AUDIO_QUALITY_MEDIUM",
+                "audioSampleRate": "44100",
+                "audioChannels": 2
+            }
+        ],
+        "dashManifestUrl": "https://manifest.googlevideo.com/api/manifest/dash/expire/1663551890/ei/MnUnY7CxHJOQg8UP1oyk4AM/ip/2402%3A3a80%3A1801%3A2862%3A4ebd%3A8523%3Acd12%3A4c84/id/ICszTQA2meo.1/source/yt_live_broadcast/requiressl/yes/as/fmp4_audio_clear%2Cwebm_audio_clear%2Cwebm2_audio_clear%2Cfmp4_sd_hd_clear%2Cwebm2_sd_hd_clear/force_finished/1/vprv/1/pacing/0/itag_bl/376%2C377%2C384%2C385%2C612%2C613%2C617%2C619%2C623%2C628%2C655%2C656%2C660%2C662%2C666%2C671/keepalive/yes/fexp/24001373%2C24007246/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cas%2Cforce_finished%2Cvprv%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAKKx8YE3ucbkIjP0oO3Yj1c7KVGwdvlucpHr4rIp6XL6AiAoTG-AYS6lCkhG79Vxam81CnW6X-vifXejwMhXC9Oduw%3D%3D",
+        "hlsManifestUrl": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663551890/ei/MnUnY7CxHJOQg8UP1oyk4AM/ip/2402%3A3a80%3A1801%3A2862%3A4ebd%3A8523%3Acd12%3A4c84/id/ICszTQA2meo.1/source/yt_live_broadcast/requiressl/yes/hfr/1/force_finished/1/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/CLEAN/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cforce_finished%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAMegK33IvPlxCIWnL-6xGwZBopbdFvatlRbhiO3CebnlAiEA3X22vU2TLSTu8za_8QWocAOIDOaj3T_leVusWpGw8Xo%3D/file/index.m3u8"
+    },
+    "videoDetails": {
+        "videoId": "ICszTQA2meo",
+        "title": "Session 2 - Compose Camp'22 |  Ashish | GDSC ADGITM",
+        "lengthSeconds": "4748",
+        "channelId": "UCmK_5EYqjkbwxwZkc1K-xYA",
+        "isOwnerViewing": false,
+        "shortDescription": "Hey Coders & Coding Enthusiasts!👨🏻‍💻\r\n\r\nDo you wish to learn more about android development & build apps faster ?🙋🏻‍♂\r\nAfter the 1st successful~ session, We GDSC-ADGITM is super excited to introduce you the Session 2 -COMPOSE CAMP’22! ✨🥳 Here, you’d be able to gain knowledge related to android development using Jetpack compose 💫\r\n\r\nAnd guess what?\r\n\r\nNo prior coding experience required😱, anyone can begin and learn!\r\n\r\nWe will be having hands on workshops which includes theory and practical implications that's needed in the industry!\r\nSo, get your laptops and headphones and let’s get compose-ing! ✨✨\r\n\r\nTopic: Basic UI & Scrollable list\r\nDate & Time: 4 Pm Sunday, 18 Sept 2022\r\n\r\nWin exciting Swags & chance to join GDSC-ADGITM at the end of event.\r\n\r\nRegistration deadline for Session-2 of the Workshop is 18th September,2022 \r\nLink : https://gdsc.community.dev/e/mzjt7y/\nsheetID: https://docs.google.com/document/d/1EGznMW2i_rWP1KSDITzS3PKYl3PIkmIv69zMLYnV42k/edit?usp=sharing\n\n\nCouldn't be a part of gdsc? Don't worry we got you covered.\nBe the part of GDSC family 🤩\nFollow , like & connect with us on our social media pages. 😇\n\n🔹 Instagram: https://instagram.com/gdsc_adgitm?igshid=YmMyMTA2M2Y=\n\n\n🔹 Twitter: https://twitter.com/gdsc_adgitm?t=tub04bsVw9WG47ODSwRNEg&s=09\n\n\n🔹 LinkedIn: https://www.linkedin.com/company/dscadgitm/\n\n\n#ComposeCamp, #ComposeCampIndia  \n#googledevelopers #googledeveloperstudentclubs #googleads #android #jetpack #adgitm #ggsipudelhi #DeveloperStudentClubs #development #appdevelopment",
+        "isCrawlable": true,
+        "thumbnail": {
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/ICszTQA2meo/default.jpg?v=632696a3",
+                    "width": 120,
+                    "height": 90
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/ICszTQA2meo/mqdefault.jpg?v=632696a3",
+                    "width": 320,
+                    "height": 180
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/ICszTQA2meo/hqdefault.jpg?v=632696a3",
+                    "width": 480,
+                    "height": 360
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/ICszTQA2meo/sddefault.jpg?v=632696a3",
+                    "width": 640,
+                    "height": 480
+                }
+            ]
+        },
+        "allowRatings": true,
+        "viewCount": "2590",
+        "author": "GDSC ADGITM",
+        "isLowLatencyLiveStream": true,
+        "isPrivate": false,
+        "isUnpluggedCorpus": false,
+        "latencyClass": "MDE_STREAM_OPTIMIZATIONS_RENDERER_LATENCY_LOW",
+        "isLiveContent": true,
+        "isPostLiveDvr": true
+    },
+    "adBreakParams": "",
+    "playerSettingsMenuData": {
+        "loggingDirectives": {
+            "trackingParams": "CAEQtc4GIhMIsJKloI2f-gIVE8igAh1WBgk8",
+            "visibility": {
+                "types": "12"
+            },
+            "enableDisplayloggerExperiment": true
+        }
+    }
+}
+2022-09-19 01:14:51,301 - DEBUG - download.ICszTQA2meo - Checking metadata items ("Session 2 - Compose Camp'22 |  Ashish | GDSC ADGITM", "Hey Coders & Coding Enthusiasts!👨🏻\u200d💻\r\n\r\nDo you wish to learn more about android development & build apps faster ?🙋🏻\u200d♂\r\nAfter the 1st successful~ session, We GDSC-ADGITM is super excited to introduce you the Session 2 -COMPOSE CAMP’22! ✨🥳 Here, you’d be able to gain knowledge related to android development using Jetpack compose 💫\r\n\r\nAnd guess what?\r\n\r\nNo prior coding experience required😱, anyone can begin and learn!\r\n\r\nWe will be having hands on workshops which includes theory and practical implications that's needed in the industry!\r\nSo, get your laptops and headphones and let’s get compose-ing! ✨✨\r\n\r\nTopic: Basic UI & Scrollable list\r\nDate & Time: 4 Pm Sunday, 18 Sept 2022\r\n\r\nWin exciting Swags & chance to join GDSC-ADGITM at the end of event.\r\n\r\nRegistration deadline for Session-2 of the Workshop is 18th September,2022 \r\nLink : https://gdsc.community.dev/e/mzjt7y/\nsheetID: https://docs.google.com/document/d/1EGznMW2i_rWP1KSDITzS3PKYl3PIkmIv69zMLYnV42k/edit?usp=sharing\n\n\nCouldn't be a part of gdsc? Don't worry we got you covered.\nBe the part of GDSC family 🤩\nFollow , like & connect with us on our social media pages. 😇\n\n🔹 Instagram: https://instagram.com/gdsc_adgitm?igshid=YmMyMTA2M2Y=\n\n\n🔹 Twitter: https://twitter.com/gdsc_adgitm?t=tub04bsVw9WG47ODSwRNEg&s=09\n\n\n🔹 LinkedIn: https://www.linkedin.com/company/dscadgitm/\n\n\n#ComposeCamp, #ComposeCampIndia  \n#googledevelopers #googledeveloperstudentclubs #googleads #android #jetpack #adgitm #ggsipudelhi #DeveloperStudentClubs #development #appdevelopment") against None and None
+
+2022-09-19 01:14:51,301 - WARNING - download.ICszTQA2meo - An output directory already existed. We assume a failed download attempt. Last segment available was 1.
+2022-09-19 01:14:51,301 - INFO - download.ICszTQA2meo - Will start downloading from segment number 0.
+2022-09-19 01:14:51,301 - DEBUG - download.ICszTQA2meo - update_status()...
+2022-09-19 01:14:51,301 - DEBUG - livestream_saver.request - Making API request with headers:{'user-agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:89.0) Gecko/20100101 Firefox/89.0', 'accept-language': 'en-US,en', 'Content-Type': 'application/json', 'Origin': 'https://www.youtube.com', 'X-YouTube-Client-Name': '3', 'X-YouTube-Client-Version': '16.20'}
+2022-09-19 01:14:51,301 - DEBUG - livestream_saver.request - POST Request https://www.youtube.com/youtubei/v1/player?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+2022-09-19 01:14:51,301 - DEBUG - livestream_saver.request - POST Request headers: [('Cookie', 'GPS=1; YSC=qfPUW-z7wOY; VISITOR_INFO1_LIVE=x8DMchYRgIA; CONSENT=YES+cb.20210328-17-p0.en+F+228'), ('User-agent', 'Mozilla/5.0 (X11; Linux x86_64; rv:89.0) Gecko/20100101 Firefox/89.0'), ('Accept-language', 'en-US,en'), ('Content-type', 'application/json'), ('Origin', 'https://www.youtube.com'), ('X-youtube-client-name', '3'), ('X-youtube-client-version', '16.20')]
+2022-09-19 01:14:51,857 - DEBUG - livestream_saver.request - REQUEST https://www.youtube.com/youtubei/v1/player?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 -> response url: https://www.youtube.com/youtubei/v1/player?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+2022-09-19 01:14:51,857 - DEBUG - livestream_saver.request - Response Status code: 200.
+Response headers:
+Content-Type: application/json; charset=UTF-8
+Vary: X-Origin
+Vary: Referer
+Date: Sun, 18 Sep 2022 19:44:51 GMT
+Server: scaffolding on HTTPServer2
+Cache-Control: private
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+Accept-Ranges: none
+Vary: Origin,Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+
+
+2022-09-19 01:14:52,161 - DEBUG - download.ICszTQA2meo - Extracted JSON from html:
+{
+    "responseContext": {
+        "visitorData": "Cgt6SlhnQzdJMEstWSiz6p2ZBg%3D%3D",
+        "serviceTrackingParams": [
+            {
+                "service": "GFEEDBACK",
+                "params": [
+                    {
+                        "key": "is_alc_surface",
+                        "value": "false"
+                    },
+                    {
+                        "key": "ipcc",
+                        "value": "0"
+                    },
+                    {
+                        "key": "is_viewed_live",
+                        "value": "True"
+                    },
+                    {
+                        "key": "logged_in",
+                        "value": "0"
+                    },
+                    {
+                        "key": "country-type",
+                        "value": "B"
+                    },
+                    {
+                        "key": "e",
+                        "value": "23946420,24245173,24283683,24255543,24269590,24123943,24275335,24268870,23998056,24007246,24199156,24199774,24077241,24004644,24211178,24185614,24262346,24281087,1714248,24263796,24264860,24267564,24260783,24135310,23934970,24187043,24241378,24224266,24164186,24285750,24227844,24117247,24175469,24281392,24286003,24036947,24199724,24246428,24187377,24287095,23983296,24286017,24140247,24260464,24217535,24277922,24034168,24236210,24280303,24285553,24161116,24276056,24243988,24275322,24269957,24255545,24001373,24265311,24226335,24191629,23882685,24267569,24265820,24265964,24260844,24276791,24209349,24120819,24248385,24197450,24275281,24590921,24219713,24080738,24063124,39322399,23918597,24275186,24268936,24279852,24281190,24169501,23966208,24254566,24253962,24181174,24260441,24117491,24263268,24268142,24287167"
+                    }
+                ]
+            },
+            {
+                "service": "CSI",
+                "params": [
+                    {
+                        "key": "c",
+                        "value": "ANDROID"
+                    },
+                    {
+                        "key": "cver",
+                        "value": "16.20"
+                    },
+                    {
+                        "key": "yt_li",
+                        "value": "0"
+                    },
+                    {
+                        "key": "GetPlayer_rid",
+                        "value": "0x549a57f1a38d408d"
+                    }
+                ]
+            },
+            {
+                "service": "GUIDED_HELP",
+                "params": [
+                    {
+                        "key": "logged_in",
+                        "value": "0"
+                    }
+                ]
+            },
+            {
+                "service": "ECATCHER",
+                "params": [
+                    {
+                        "key": "client.version",
+                        "value": "16.20"
+                    },
+                    {
+                        "key": "client.name",
+                        "value": "ANDROID"
+                    },
+                    {
+                        "key": "client.fexp",
+                        "value": "23946420,24245173,24283683,24255543,24269590,24123943,24275335,24268870,23998056,24007246,24199156,24199774,24077241,24004644,24211178,24185614,24262346,24281087,1714248,24263796,24264860,24267564,24260783,24135310,23934970,24187043,24241378,24224266,24164186,24285750,24227844,24117247,24175469,24281392,24286003,24036947,24199724,24246428,24187377,24287095,23983296,24286017,24140247,24260464,24217535,24277922,24034168,24236210,24280303,24285553,24161116,24276056,24243988,24275322,24269957,24255545,24001373,24265311,24226335,24191629,23882685,24267569,24265820,24265964,24260844,24276791,24209349,24120819,24248385,24197450,24275281,24590921,24219713,24080738,24063124,39322399,23918597,24275186,24268936,24279852,24281190,24169501,23966208,24254566,24253962,24181174,24260441,24117491,24263268,24268142,24287167"
+                    }
+                ]
+            },
+            {
+                "service": "LISTNR",
+                "params": [
+                    {
+                        "key": "e",
+                        "value": "24243988,24199724,24265820,24267564,24267539,24164186,24033252,24181174,24267627,24199156,24281190,24290062,24030282,24036947,24263796,24276791,24117247,24135310,24253767,24283683,24199774,24253779,24284035,24268142,24275186,24034168,24276056,24250570,24117491,39322399,24191629,24245173,24140247,24185614,24267569,24224266,24260464,24262346,24253784,24253962,24175469,24024517,24280303,24254870,24274141,24262371"
+                    }
+                ]
+            }
+        ]
+    },
+    "playabilityStatus": {
+        "status": "OK",
+        "reason": "This live event has ended.",
+        "playableInEmbed": true,
+        "miniplayer": {
+            "miniplayerRenderer": {
+                "playbackMode": "PLAYBACK_MODE_ALLOW"
+            }
+        },
+        "contextParams": "Q0FFU0FnZ0M="
+    },
+    "streamingData": {
+        "expiresInSeconds": "21540",
+        "adaptiveFormats": [
+            {
+                "itag": 136,
+                "url": "https://rr2---sn-8vq54voxpo-qxa6.googlevideo.com/videoplayback?expire=1663551891&ei=M3UnY7X5JYeK9fwP5uCm6A4&ip=2402%3A3a80%3A1801%3A2862%3A4ebd%3A8523%3Acd12%3A4c84&id=ICszTQA2meo.1&itag=136&source=yt_live_broadcast&requiressl=yes&mh=oa&mm=44%2C29&mn=sn-8vq54voxpo-qxa6%2Csn-8vq54voxpo-h55e&ms=lva%2Crdu&mv=m&mvi=2&pl=44&initcwndbps=355000&vprv=1&ufph=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&gir=yes&mt=1663529797&fvip=6&keepalive=yes&fexp=24001373%2C24007246&c=ANDROID&rbqsm=fr&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cufph%2Clive%2Chang%2Cnoclen%2Cmime%2Cgir&sig=AOq0QJ8wRQIgH6FHebhPOnOAhy4sbIgPSMdq5eETLoWSfAiuztecWlMCIQCKJJEEDbJTbToKTikd9rivKxCXSzZgkcPzMynTHnRrkA%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgLaLImQ8tROsHNLXya3cKgL5_Mm_48GY6wxG6k4MpKMICIHgecwi30YV8v2jnTj60RW09MSRA8CL9Y0RVWN0f8bK_",
+                "mimeType": "video/mp4; codecs=\"avc1.4d401f\"",
+                "bitrate": 2187400,
+                "width": 1280,
+                "height": 720,
+                "quality": "hd720",
+                "fps": 30,
+                "qualityLabel": "720p",
+                "projectionType": "RECTANGULAR",
+                "targetDurationSec": 2,
+                "maxDvrDurationSec": 43200
+            },
+            {
+                "itag": 135,
+                "url": "https://rr2---sn-8vq54voxpo-qxa6.googlevideo.com/videoplayback?expire=1663551891&ei=M3UnY7X5JYeK9fwP5uCm6A4&ip=2402%3A3a80%3A1801%3A2862%3A4ebd%3A8523%3Acd12%3A4c84&id=ICszTQA2meo.1&itag=135&source=yt_live_broadcast&requiressl=yes&mh=oa&mm=44%2C29&mn=sn-8vq54voxpo-qxa6%2Csn-8vq54voxpo-h55e&ms=lva%2Crdu&mv=m&mvi=2&pl=44&initcwndbps=355000&vprv=1&ufph=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&gir=yes&mt=1663529797&fvip=6&keepalive=yes&fexp=24001373%2C24007246&c=ANDROID&rbqsm=fr&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cufph%2Clive%2Chang%2Cnoclen%2Cmime%2Cgir&sig=AOq0QJ8wRgIhAK9FSupcr02g4ZcZgwKnC5Mx_zKhpo0GUWEYlBux7t9bAiEAnYjVn41LG3F4VMRbOohY3TAXPw-wwAP9AKSDiCMfPMk%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgLaLImQ8tROsHNLXya3cKgL5_Mm_48GY6wxG6k4MpKMICIHgecwi30YV8v2jnTj60RW09MSRA8CL9Y0RVWN0f8bK_",
+                "mimeType": "video/mp4; codecs=\"avc1.4d401f\"",
+                "bitrate": 1077445,
+                "width": 854,
+                "height": 480,
+                "quality": "large",
+                "fps": 30,
+                "qualityLabel": "480p",
+                "projectionType": "RECTANGULAR",
+                "targetDurationSec": 2,
+                "maxDvrDurationSec": 43200
+            },
+            {
+                "itag": 134,
+                "url": "https://rr2---sn-8vq54voxpo-qxa6.googlevideo.com/videoplayback?expire=1663551891&ei=M3UnY7X5JYeK9fwP5uCm6A4&ip=2402%3A3a80%3A1801%3A2862%3A4ebd%3A8523%3Acd12%3A4c84&id=ICszTQA2meo.1&itag=134&source=yt_live_broadcast&requiressl=yes&mh=oa&mm=44%2C29&mn=sn-8vq54voxpo-qxa6%2Csn-8vq54voxpo-h55e&ms=lva%2Crdu&mv=m&mvi=2&pl=44&initcwndbps=355000&vprv=1&ufph=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&gir=yes&mt=1663529797&fvip=6&keepalive=yes&fexp=24001373%2C24007246&c=ANDROID&rbqsm=fr&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cufph%2Clive%2Chang%2Cnoclen%2Cmime%2Cgir&sig=AOq0QJ8wRgIhAMXHs32GxZl7ErH3V5BIJ0Mt_mWo5px7ihDOVdOCAbM_AiEAuvcpmFBDXFKxtT9pB0FRWFU768s-bpycsBcfBPnIr6w%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgLaLImQ8tROsHNLXya3cKgL5_Mm_48GY6wxG6k4MpKMICIHgecwi30YV8v2jnTj60RW09MSRA8CL9Y0RVWN0f8bK_",
+                "mimeType": "video/mp4; codecs=\"avc1.4d401e\"",
+                "bitrate": 772630,
+                "width": 640,
+                "height": 360,
+                "quality": "medium",
+                "fps": 30,
+                "qualityLabel": "360p",
+                "projectionType": "RECTANGULAR",
+                "targetDurationSec": 2,
+                "maxDvrDurationSec": 43200,
+                "highReplication": true
+            },
+            {
+                "itag": 133,
+                "url": "https://rr2---sn-8vq54voxpo-qxa6.googlevideo.com/videoplayback?expire=1663551891&ei=M3UnY7X5JYeK9fwP5uCm6A4&ip=2402%3A3a80%3A1801%3A2862%3A4ebd%3A8523%3Acd12%3A4c84&id=ICszTQA2meo.1&itag=133&source=yt_live_broadcast&requiressl=yes&mh=oa&mm=44%2C29&mn=sn-8vq54voxpo-qxa6%2Csn-8vq54voxpo-h55e&ms=lva%2Crdu&mv=m&mvi=2&pl=44&initcwndbps=355000&vprv=1&ufph=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&gir=yes&mt=1663529797&fvip=6&keepalive=yes&fexp=24001373%2C24007246&c=ANDROID&rbqsm=fr&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cufph%2Clive%2Chang%2Cnoclen%2Cmime%2Cgir&sig=AOq0QJ8wRgIhAOSEZIzwvJDAmvfVP7yR_vW23A_GdCge0goLWCD6rFSwAiEA-O7ez-X4Z-Uosy32QdQbpxmlqpMTvwcS-mFBnARBPs4%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgLaLImQ8tROsHNLXya3cKgL5_Mm_48GY6wxG6k4MpKMICIHgecwi30YV8v2jnTj60RW09MSRA8CL9Y0RVWN0f8bK_",
+                "mimeType": "video/mp4; codecs=\"avc1.4d4015\"",
+                "bitrate": 419256,
+                "width": 426,
+                "height": 240,
+                "quality": "small",
+                "fps": 30,
+                "qualityLabel": "240p",
+                "projectionType": "RECTANGULAR",
+                "targetDurationSec": 2,
+                "maxDvrDurationSec": 43200
+            },
+            {
+                "itag": 160,
+                "url": "https://rr2---sn-8vq54voxpo-qxa6.googlevideo.com/videoplayback?expire=1663551891&ei=M3UnY7X5JYeK9fwP5uCm6A4&ip=2402%3A3a80%3A1801%3A2862%3A4ebd%3A8523%3Acd12%3A4c84&id=ICszTQA2meo.1&itag=160&source=yt_live_broadcast&requiressl=yes&mh=oa&mm=44%2C29&mn=sn-8vq54voxpo-qxa6%2Csn-8vq54voxpo-h55e&ms=lva%2Crdu&mv=m&mvi=2&pl=44&initcwndbps=355000&vprv=1&ufph=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&gir=yes&mt=1663529797&fvip=6&keepalive=yes&fexp=24001373%2C24007246&c=ANDROID&rbqsm=fr&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cufph%2Clive%2Chang%2Cnoclen%2Cmime%2Cgir&sig=AOq0QJ8wRgIhANavQJeREx28AhdUQwrdwxitC9xLaRybJAskPMnF7-57AiEAyCRLJD0DsQMFXL4Ad43KHUFKy9xZ23OBBn_-Fmp73NE%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgLaLImQ8tROsHNLXya3cKgL5_Mm_48GY6wxG6k4MpKMICIHgecwi30YV8v2jnTj60RW09MSRA8CL9Y0RVWN0f8bK_",
+                "mimeType": "video/mp4; codecs=\"avc1.4d400c\"",
+                "bitrate": 192223,
+                "width": 256,
+                "height": 144,
+                "quality": "tiny",
+                "fps": 30,
+                "qualityLabel": "144p",
+                "projectionType": "RECTANGULAR",
+                "targetDurationSec": 2,
+                "maxDvrDurationSec": 43200
+            },
+            {
+                "itag": 139,
+                "url": "https://rr2---sn-8vq54voxpo-qxa6.googlevideo.com/videoplayback?expire=1663551891&ei=M3UnY7X5JYeK9fwP5uCm6A4&ip=2402%3A3a80%3A1801%3A2862%3A4ebd%3A8523%3Acd12%3A4c84&id=ICszTQA2meo.1&itag=139&source=yt_live_broadcast&requiressl=yes&mh=oa&mm=44%2C29&mn=sn-8vq54voxpo-qxa6%2Csn-8vq54voxpo-h55e&ms=lva%2Crdu&mv=m&mvi=2&pl=44&initcwndbps=355000&vprv=1&ufph=1&live=1&hang=1&noclen=1&mime=audio%2Fmp4&gir=yes&mt=1663529797&fvip=6&keepalive=yes&fexp=24001373%2C24007246&c=ANDROID&rbqsm=fr&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cufph%2Clive%2Chang%2Cnoclen%2Cmime%2Cgir&sig=AOq0QJ8wRAIgbcz7CLZh5D-sGD_eSetq3VmVqTRcKSfS-28AUSjPuLkCIH8ly4PN8pxqk8lMyNM-1Yy0pW09ZEl1D5uYZM6mXQ1r&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgLaLImQ8tROsHNLXya3cKgL5_Mm_48GY6wxG6k4MpKMICIHgecwi30YV8v2jnTj60RW09MSRA8CL9Y0RVWN0f8bK_",
+                "mimeType": "audio/mp4; codecs=\"mp4a.40.5\"",
+                "bitrate": 64000,
+                "quality": "tiny",
+                "projectionType": "RECTANGULAR",
+                "targetDurationSec": 2,
+                "maxDvrDurationSec": 43200,
+                "audioQuality": "AUDIO_QUALITY_LOW",
+                "audioSampleRate": "22050",
+                "audioChannels": 2
+            },
+            {
+                "itag": 140,
+                "url": "https://rr2---sn-8vq54voxpo-qxa6.googlevideo.com/videoplayback?expire=1663551891&ei=M3UnY7X5JYeK9fwP5uCm6A4&ip=2402%3A3a80%3A1801%3A2862%3A4ebd%3A8523%3Acd12%3A4c84&id=ICszTQA2meo.1&itag=140&source=yt_live_broadcast&requiressl=yes&mh=oa&mm=44%2C29&mn=sn-8vq54voxpo-qxa6%2Csn-8vq54voxpo-h55e&ms=lva%2Crdu&mv=m&mvi=2&pl=44&initcwndbps=355000&vprv=1&ufph=1&live=1&hang=1&noclen=1&mime=audio%2Fmp4&gir=yes&mt=1663529797&fvip=6&keepalive=yes&fexp=24001373%2C24007246&c=ANDROID&rbqsm=fr&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cufph%2Clive%2Chang%2Cnoclen%2Cmime%2Cgir&sig=AOq0QJ8wRQIgLoyDVqnucHGEdNK2eGoZl5ZGy2dzWbu2OZ49IfoGJdECIQD7qvhnookleHzC53kxmMVUHuBpJ7Kzi1mEy5O5oWAC9Q%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgLaLImQ8tROsHNLXya3cKgL5_Mm_48GY6wxG6k4MpKMICIHgecwi30YV8v2jnTj60RW09MSRA8CL9Y0RVWN0f8bK_",
+                "mimeType": "audio/mp4; codecs=\"mp4a.40.2\"",
+                "bitrate": 144000,
+                "quality": "tiny",
+                "projectionType": "RECTANGULAR",
+                "targetDurationSec": 2,
+                "maxDvrDurationSec": 43200,
+                "highReplication": true,
+                "audioQuality": "AUDIO_QUALITY_MEDIUM",
+                "audioSampleRate": "44100",
+                "audioChannels": 2
+            }
+        ],
+        "dashManifestUrl": "https://manifest.googlevideo.com/api/manifest/dash/expire/1663551891/ei/M3UnY7X5JYeK9fwP5uCm6A4/ip/2402%3A3a80%3A1801%3A2862%3A4ebd%3A8523%3Acd12%3A4c84/id/ICszTQA2meo.1/source/yt_live_broadcast/requiressl/yes/as/fmp4_audio_clear%2Cwebm_audio_clear%2Cwebm2_audio_clear%2Cfmp4_sd_hd_clear%2Cwebm2_sd_hd_clear/force_finished/1/vprv/1/pacing/0/itag_bl/376%2C377%2C384%2C385%2C612%2C613%2C617%2C619%2C623%2C628%2C655%2C656%2C660%2C662%2C666%2C671/keepalive/yes/fexp/24001373%2C24007246/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cas%2Cforce_finished%2Cvprv%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgePjHRvFY05JZHYF_dvGCwZ2k7girPOUSnIxiqJAhLg0CIGS1L-JRw1BtPtSpIqBDPZS0rMR1SPl7ZnHPJ0RCl0vS",
+        "hlsManifestUrl": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663551891/ei/M3UnY7X5JYeK9fwP5uCm6A4/ip/2402%3A3a80%3A1801%3A2862%3A4ebd%3A8523%3Acd12%3A4c84/id/ICszTQA2meo.1/source/yt_live_broadcast/requiressl/yes/hfr/1/force_finished/1/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/CLEAN/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cforce_finished%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgA8ZqBzYIdn6eSqqJ4e_7uT5nXAa_5JjlqRWZlegryV8CIEv04YNfs2bi2Qh1R5PGhP7s1kUC0RkUoUNdyadK_SNI/file/index.m3u8"
+    },
+    "videoDetails": {
+        "videoId": "ICszTQA2meo",
+        "title": "Session 2 - Compose Camp'22 |  Ashish | GDSC ADGITM",
+        "lengthSeconds": "4748",
+        "channelId": "UCmK_5EYqjkbwxwZkc1K-xYA",
+        "isOwnerViewing": false,
+        "shortDescription": "Hey Coders & Coding Enthusiasts!👨🏻‍💻\r\n\r\nDo you wish to learn more about android development & build apps faster ?🙋🏻‍♂\r\nAfter the 1st successful~ session, We GDSC-ADGITM is super excited to introduce you the Session 2 -COMPOSE CAMP’22! ✨🥳 Here, you’d be able to gain knowledge related to android development using Jetpack compose 💫\r\n\r\nAnd guess what?\r\n\r\nNo prior coding experience required😱, anyone can begin and learn!\r\n\r\nWe will be having hands on workshops which includes theory and practical implications that's needed in the industry!\r\nSo, get your laptops and headphones and let’s get compose-ing! ✨✨\r\n\r\nTopic: Basic UI & Scrollable list\r\nDate & Time: 4 Pm Sunday, 18 Sept 2022\r\n\r\nWin exciting Swags & chance to join GDSC-ADGITM at the end of event.\r\n\r\nRegistration deadline for Session-2 of the Workshop is 18th September,2022 \r\nLink : https://gdsc.community.dev/e/mzjt7y/\nsheetID: https://docs.google.com/document/d/1EGznMW2i_rWP1KSDITzS3PKYl3PIkmIv69zMLYnV42k/edit?usp=sharing\n\n\nCouldn't be a part of gdsc? Don't worry we got you covered.\nBe the part of GDSC family 🤩\nFollow , like & connect with us on our social media pages. 😇\n\n🔹 Instagram: https://instagram.com/gdsc_adgitm?igshid=YmMyMTA2M2Y=\n\n\n🔹 Twitter: https://twitter.com/gdsc_adgitm?t=tub04bsVw9WG47ODSwRNEg&s=09\n\n\n🔹 LinkedIn: https://www.linkedin.com/company/dscadgitm/\n\n\n#ComposeCamp, #ComposeCampIndia  \n#googledevelopers #googledeveloperstudentclubs #googleads #android #jetpack #adgitm #ggsipudelhi #DeveloperStudentClubs #development #appdevelopment",
+        "isCrawlable": true,
+        "thumbnail": {
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/ICszTQA2meo/default.jpg?v=632696a3",
+                    "width": 120,
+                    "height": 90
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/ICszTQA2meo/mqdefault.jpg?v=632696a3",
+                    "width": 320,
+                    "height": 180
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/ICszTQA2meo/hqdefault.jpg?v=632696a3",
+                    "width": 480,
+                    "height": 360
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/ICszTQA2meo/sddefault.jpg?v=632696a3",
+                    "width": 640,
+                    "height": 480
+                }
+            ]
+        },
+        "allowRatings": true,
+        "viewCount": "2590",
+        "author": "GDSC ADGITM",
+        "isLowLatencyLiveStream": true,
+        "isPrivate": false,
+        "isUnpluggedCorpus": false,
+        "latencyClass": "MDE_STREAM_OPTIMIZATIONS_RENDERER_LATENCY_LOW",
+        "isLiveContent": true,
+        "isPostLiveDvr": true
+    },
+    "adBreakParams": "",
+    "playerSettingsMenuData": {
+        "loggingDirectives": {
+            "trackingParams": "CAEQtc4GIhMI9d7roI2f-gIVB0WdCR1msAnt",
+            "visibility": {
+                "types": "12"
+            },
+            "enableDisplayloggerExperiment": true
+        }
+    }
+}
+2022-09-19 01:14:52,162 - DEBUG - download.ICszTQA2meo - is_live() status Status.VIEWED_LIVE|OFFLINE
+2022-09-19 01:14:52,162 - INFO - download.ICszTQA2meo - Stream seems to be viewed live. Good.
+2022-09-19 01:14:52,162 - INFO - download.ICszTQA2meo - Stream status Status.VIEWED_LIVE|AVAILABLE
+2022-09-19 01:14:52,162 - DEBUG - download.ICszTQA2meo - Status is Status.VIEWED_LIVE|AVAILABLE.
+2022-09-19 01:14:52,162 - CRITICAL - download.ICszTQA2meo - Could not download "https://youtu.be/ICszTQA2meo": stream unavailable or not a livestream.

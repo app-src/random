@@ -47,3 +47,21 @@ def fun4(input1,input2):
         return(int(dif/2))
 
 print(fun3(5,[-5,4,3,2]))
+
+
+def energyProduced(initialEnergy,Rate,Time):
+    # Write your code here
+    li=[]
+    for i in range(0,Time):
+        li.append(initialEnergy)
+        initialEnergy*=Rate
+    return(li)
+
+def noOfProducts(order,disAmount):
+    i=0
+    for j in order:
+        if disAmount%j==0:
+            i+=1
+    return(i)
+
+print(noOfProducts([9,-13,8,-7,-8,18,10],18))
