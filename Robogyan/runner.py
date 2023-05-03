@@ -2,17 +2,24 @@ import json
 import firebase as fb
   
 # Opening JSON file
-f = open('Robogyan/data.json')
+o = open('Robogyan/old.json')
+n = open('Robogyan/new.json')
   
 # returns JSON object as 
 # a dictionary
-data = json.load(f)
-  
+old = json.load(o)
+new = json.load(n)
+
 # Iterating through the json
 # list
-for i in data['items']:
-    fb.don(i['name'])
+cou=0
+for i in new['items']:
+    if i not in(old['items']):
+        cou+=1
+        fb.don(i['name'])
+        print(cou)
   
 # Closing file
-f.close()
+o.close()
+n.close()
 

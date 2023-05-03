@@ -1,0 +1,3403 @@
+{
+    "prefixes": [
+      
+    ],
+    "items": [
+      {
+        "name": "files/ Team sky.docx-1676916027282",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/00001.png-1674482959367",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/132765v8882857_puentepeatonalenarchivodwgautocad.zip-1676552234728",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/15.jpeg-1678802353632",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/15.jpeg-1678802356893",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/1676468477905_EVOLUTION (2).pptx-1676798452586",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/20200914_103619.jpg-1676809823619",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/20875 Electromania.pdf-1676913393560",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/20875 Embedded.pdf-1676917724509",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/22BEC037_p.jpg-1677251021940",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/28868 (1).jpg-1676051748039",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/3_Neurons (Problem Statement) IIT Kanpur.pdf-1676915519644",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/3_Neurons (Problem Statement) IIT Kanpur.pdf-1676915525532",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/48c9201fc16e166ef7590ea43cbb0a8d.jpg-1676296030102",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/4D699412-BA5A-4EA6-8C1A-4C8425F84857.jpeg-1678018698234",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/5188kanpur hover.pdf-1677264397186",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/63eb578115718_Executive_Summary_Form (1).pages-1677049866249",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/63eb578115718_Executive_Summary_Form (1).pages-1677050345449",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/63eb578115718_Executive_Summary_Form (1).pdf-1677049790582",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/7aae16131f9effdfb3c4cf4df8701440.jpg-1676052051059",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/A10 abstract.docx-1676917144186",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/A10 abstract.docx-1676917280228",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/ABSTRACT -EMBBED _TECHDEVELOpers.pdf-1678854053285",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/ABSTRACT Embedded systems.pdf-1678645060860",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/ABSTRACT FORMAT_emb (1).docx-1676891093150",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/ABSTRACT FORMAT_emb (1).docx-1676891095901",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/ABSTRACT FORMAT_emb (1).docx-1676891108550",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/ABSTRACT IIT ( KANPUR ).pdf-1676917636377",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/ABSTRACT IIT ( KANPUR ).pdf-1676917640088",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/ABSTRACT IITK.pdf-1678173228497",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/ABSTRACT IITK.pdf-1678173230544",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/ABSTRACT TECHKRITI.pdf-1677209749958",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/ABSTRACT electromenia.docx.pdf-1677260532429",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/ABSTRACT electromenia.docx.pdf-1677260569789",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/ABSTRACT.docx-1678873282922",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/ABSTRACT.docx-1678873291328",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/ABSTRACT.docx-1678873325594",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/ABSTRACT.pdf-1676909258595",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/ABSTRACT.pdf-1676909263554",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/AERO Abstract (1).pdf-1677769186766",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/AERO Abstract (1).pdf-1677769268890",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/AERO Abstract (1).pdf-1677769539585",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/AERO Abstract.docx-1677260367334",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/AERO Abstract.docx-1677260375880",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/AERO BMSCE.pdf-1676788198331",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/AEROTANTRIX NIE MYSURU.docx-1677258246844",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/AIRAVAT Skyspars Abstract final.pdf-1677249477363",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Abstract Hover craft.pdf-1677259538193",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Abstract ML HACKATHON.pdf-1676919329187",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Abstract Submission.pdf-1677409552177",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Abstract _ Skysparks.pdf-1677260540247",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Abstract drone ORIGIONAL.pdf-1676832974863",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Abstract with Fabrication Images Drive.pdf-1676915524013",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Abstract(skyspark).docx-1677584264565",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Abstract.docx-1676913462313",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Abstract.pdf-1676916878316",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Abstract.pdf-1677852952090",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Abstract.pdf-1678391008619",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Abstract.xlsx-1678472116457",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Abstract_44218.xlsx-1678458133960",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Abstract_Airavat.pdf-1677263458665",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Abstract_IARC (1).pdf-1677606154205",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Abstract_IARC Laneway_amigos (1).pdf-1678039816189",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Abstract_IARC.docx-1677643638694",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Abstract_IARC_ATOMICS.pdf-1677175851387",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Abstract_Robowars Krieger.pdf-1676895391024",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Abstract_Robowars Krieger.pdf-1676895401055",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Abstract_Robowars.docx-1677150090838",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Abstract_Robowars.pdf-1677607453281",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Abstract_Techkriti (team samarpan).pdf-1677254306033",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Aero Mallus Absract-1676918066670",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Aerotantrix NIE Abstract.pdf-1677261329455",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/AlterEco_Abstract.pdf-1676889266072",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Amogus Abstract.pdf-1676916429371",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Antariksh 2.docx-1676916836135",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Atom_Embedded.pdf-1676916663465",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Auraficians_Embedded.pdf-1676917589764",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Aural_Executive_Summary_Form.docx.pdf-1677252741277",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Aurora abstract.rar-1676909596465",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Aurora abstract.rar-1676909600209",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Aurora abstract.rar-1676909601097",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Aurora abstract.rar-1676909601246",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Aurora abstract.rar-1676909601454",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Aurora abstract.rar-1676909601625",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Aurora abstract.rar-1676909601753",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Aurora abstract.rar-1676909602153",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Aurora abstract.rar-1676909602345",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Aurora abstract.rar-1676909602522",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Aurora abstract.rar-1676909602653",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Aurora abstract.rar-1676909604475",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Autocad Drawing.pdf-1677520784303",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Aviator__.pdf-1677240408847",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Aviators (1).pdf-1675706647606",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Avimedh Skysparks Abstract.pdf-1676912312654",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/B2 abstract.docx-1676917508959",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/B2 abstract.docx-1676917529192",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/B2 abstract.docx-1676917532449",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/B2 abstract.docx-1676917539349",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/BMSCE HP.pdf-1676612324714",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/BOEING IIT KANPUR_merged.pdf-1677336928971",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/BOEING IIT Kanpur.pdf-1677482543446",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/BOEING IIT_merged.pdf-1677776414031",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/BULLSOFDALALSTREET.xlsx-1678026695336",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/BULLSOFDALALSTREET.xlsx-1678026698604",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/BULLSOFDALALSTREET.xlsx-1678026699549",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/BULLSOFDALALSTREET.xlsx-1678026699720",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/BULLSOFDALALSTREET.xlsx-1678026699930",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Bang Bears Portfolio.xlsx-1679151972131",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Bhonwal RSP Manoeuvre_Abstract.pdf-1678165582734",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Big Bull Team.xlsx-1677774572886",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/BlisCare - (Upstart) Executive Summary.pdf-1677965394553",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/BlisCare - Executive Summary (Pitch Premier).pdf-1677965373135",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Boeing India Techkriti.pdf-1677261464023",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Book1.xlsx-1678455522795",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Bridge Design Challenge abstract.docx.pdf-1678971775087",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Brochure Techkriti'23.pdf-1676468495393",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Business Abstract.pdf-1678385776213",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/CTSAM.docx-1676046598348",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Copy of Abstract_IARC (2).docx-1677258401976",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Copy of Executive Summary Form.docx-1678018466762",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Copy of Executive Summary Form.docx-1678018513698",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Copy of Executive Summary Form.docx-1678018516812",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Copy of Executive Summary Form.docx-1678018536841",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Copy of Executive Summary Form.docx-1678018718037",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Copy of Executive Summary Form.docx.pdf-1678645813645",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Copy-of-Executive-Summary-Form.jpg.zip-1678018656114",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Cover8.png-1678801598956",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Cradle Abstract.docx.pdf-1679337362192",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Cube.mp4-1676469775100",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/DALL·E 2023-02-12 23.43.49 - green neon lights.png-1676395686620",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/DESIGN EVENTS 2023.pdf-1677583772723",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/DOC-20230302-WA0025..pdf-1677774196896",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/DOC-20230303-WA0017_-1677864443771",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/DOC-20230305-WA0005.xlsx-1678028940582",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/DRONA TechKriti.pdf-1676915240045",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/DailyStonks_Executive_Summary.pdf-1676720156637",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/DailyStonks_Executive_Summary.pdf-1676722013180",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Deck_2.pdf-1679396987925",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Depanshu Sahu's Photo.jpg-1673547145972",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Doc1.pdf-1677609122951",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Doc1.pdf-1677609125568",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Doc1.pdf-1677609125743",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Document 4 (1).pdf-1677354786299",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/ECDC: Quantum Plumber.pdf-1679075445348",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/EDC.pdf-1676297814015",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/EMBEDDED-TEAM ROBO STAR.pdf-1678167942705",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/EXECUTIVE_SUMMARY.pdf-1678733081669",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Eagles_Robowars.pdf-1677244353894",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Electromania.pdf-1677259643896",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Electromania_Team_Binary.pdf-1679070539589",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Electromania_Team_Binary.pdf-1679155994421",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Embedded IIT kanpur.docx.pdf-1677518120755",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Embedded tech id 26319.pdf-1677170386768",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Embeded.pdf.pptm-1678045687029",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Error Sage_Abstract.pdf-1676885865055",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Example.pdf-1677750469137",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Example.pdf-1677750499237",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Executive Summary Form - Pitch Premier.pdf-1677262235248",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Executive Summary Form - Upstart V2.pdf-1677262252881",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Executive Summary Form Fhaida+CRM.pdf-1678629603862",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Executive Summary Form Upstart KapXha (Final).pdf-1677236462675",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Executive Summary Form.docx - Google Docs.pdf-1678041004437",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Executive Summary Form.docx - Google Docs.pdf-1678041007404",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Executive Summary Form.docx - Google Docs.pdf-1678041008356",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Executive Summary Form.docx-1677868550838",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Executive Summary Form.docx-1677917082125",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Executive Summary Form.docx-1677917085117",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Executive Summary Form.docx-1677917085360",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Executive Summary Form.docx-1677917133037",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Executive Summary Form.docx-1677954726337",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Executive Summary Form.docx-1677954730403",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Executive Summary Form.docx-1677955246614",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Executive Summary Form.docx-1678189360859",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Executive Summary Form.pdf-1677252987004",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Executive Summary Form.zip-1677262686456",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Executive Summary Form77.pdf-1677768399635",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Executive Summary Form_Fhaida+ CRM.pdf-1678629421598",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Executive Summary iitk.pdf-1677753143546",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Executive summary form TFB.pdf-1679405981393",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Executive summary form TFB.pdf-1679406041429",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/F15 abstract .docx-1676916902849",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/F16 abstract-1.docx-1676916068939",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/F16 abstract.pdf-1676914933822",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/FALCON.pdf-1677169286378",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/FOURIER SERIES.pdf-1676905999536",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/FURIOUS (1).pdf-1677257846376",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/FeetWings Executive Summary (2).pdf-1677357574357",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/FeetWings_Pitch_Deck (9).pdf (4).pdf.pdf-1677357588285",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Fitudies Form PP.docx.pdf-1676100955068",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Fitudies Form.docx (1).pdf-1676100884698",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/FleetX(abstract + plane construction pictures).rar-1676840255599",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/FleetX(abstract + plane construction pictures).rar-1676840262044",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Forge-pu .pdf-1677560069351",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Format.xlsx-1677561569157",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Fremo Robot.pdf-1677261427868",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/GARUD TEAM (3).pdf-1676917138402",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/HA-229173.docx-1677396224420",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/HA-229173.pdf-1677395646184",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/HA-229173.pdf-1677395704534",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/HA-229173.pdf-1677396040313",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/HARSHAD MEHTA AND CO.docx-1677865744721",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/HARSHAD MEHTA AND CO.docx-1678646809540",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/HHK kanpur.docx-1677226815097",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/HOVERMANIA.pdf-1676296574538",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/HOVERMANIA_TEAM- Golden Arms.pdf-1677401498323",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Harish-V-SNMSSS.jpg-1677599790268",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Harpy Eagles Abstract.pdf-1677263380729",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Hovercraft Abstract kanpur.pdf-1677263838320",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Hovermania Abstrac.pdf-1676917156503",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Hovermania Abstract (1).pdf-1676917770279",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Hovermania Abstract (2).pdf-1677223986674",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Hovermania Abstract Filled.pdf-1677826761399",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Hovermania Abstract Team ID 45241.pdf-1678131985455",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Hovermania Abstract Team Orion.pdf-1677240477894",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Hovermania Abstract final.pdf-1676913992197",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Hovermania Abstract(new)1.pptx-1677258342998",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Hovermania Abstract(new)1.pptx-1677258345150",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Hovermania Abstract.docx-1676917775132",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Hovermania Abstract.docx-1677225935158",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Hovermania Abstract.docx.pdf-1676913144465",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Hovermania Abstract.pdf-1677847660402",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Hovermania.techkriti.zip-1676916652842",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Hovermania_Abstract.Saarthak.team.kusamava.docx-1676918127228",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Hovermania_Abstract.pdf.pdf-1676911705827",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Hovermania_Abstract_(2)[1].pdf-1677245974248",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Hovermania_abstract_techid_13935.pdf-1677262966640",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/IARC.docx-1677236541687",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/IARC.docx-1677236829500",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/IARC_Abstract.pdf-1678904490042",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/IARC_IIT_Kanpur_abstract.pdf-1678470284025",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/ICON_emb.pdf-1676914808225",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/ID 5188 Uvira multirotor.pdf-1677264372543",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/IDATEN- Copy of Manoeuvre_Abstract.pdf-1676970221059",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/III_44212_Vaari2.0.pdf-1678033286382",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/IIT KANPUR ABSTRACT.pdf-1676865943064",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/IIT Kanpur abstract.pdf-1677257943790",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/IIT Kanpur abstract.pdf-1677258984639",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/IITK_TRADEKON.xlsx-1677759098626",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/IMG-20230126-WA0017.jpg-1674724318998",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/IMG-20230126-WA0017.jpg-1674724321261",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/IMG-20230210-WA0030.jpg-1676049593339",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/IMG-20230219-WA0009.jpg-1676830425151",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/IMG-20230219-WA0009.jpg-1676830445793",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/IMG20230219170315.jpg-1676809541978",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/IMG20230227162824.jpg-1677496455916",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/IMG_20210930_114446.jpg-1675349616427",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/IMG_20210930_114446.jpg-1675349619053",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/IMG_20211029_142435.jpg-1675351392300",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/IMG_20211029_142435.jpg-1675356588841",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/IMG_20230123_225539.jpg-1676271099418",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/IMG_20230216_183000.jpg-1676553147837",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/IMG_20230227_213706.jpg-1677514139580",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/IMG_20230308_071040.jpg-1678239695884",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/IMG_20230317_215941.jpg-1679070589510",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/IMG_2598.heic-1676899009869",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Incredibles_Manoeuvre.docx-1677088899551",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Incredibles_Manoeuvre.docx-1677088902407",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/InnovVortex_Manoeuvre.docx-1677252713569",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/InnovVortex_Manoeuvre.docx-1677252902989",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Inter IIT Cultural Meet 5.0 Events Rulebook.pdf-1675607413225",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/KAMAK-ITE Hovermania Abstract.pdf-1677258204621",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/KARUPPUSAMY V EMBEDDED.pdf-1676902860012",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/KTC TRIO BDC.pdf-1677518883522",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/MANOEUVER ROBOT.pdf-1677263319443",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/MANOEUVER ROBOT.pdf-1677263324438",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/MATRIX.docx (3).pdf-1677587763092",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/MIND BENDERS ABSTRACT.pdf-1676910230420",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/MULTIROTOR ABSTRACT SUBMISSION.pdf-1677224377109",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Mafia Mundeer Manoeuvre_Abstract.pdf-1677066293001",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Mafia Mundeer Manoeuvre_Abstract.pdf-1677066297870",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Mafia Mundeer Manoeuvre_Abstract.pdf-1677066299164",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Manoeuvre - team Cardo.pdf-1677262294284",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Manoeuvre - team Cardo.pdf-1677262297020",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Manoeuvre.docx-1677236575180",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Manoeuvre.docx-1677236880403",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Manoeuvre.docx-1677255583538",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Manoeuvre.docx-1679064787955",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Manoeuvre.docx-1679392147253",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Manoeuvre.docx-1679392151410",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Manoeuvre.docx-1679392153287",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Manoeuvre.pdf-1677517990677",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/ManoeuvreJEC.pdf-1676910643646",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Manoeuvre_Abstract (1).pdf-1678552305751",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Manoeuvre_Abstract 1.pdf-1676916084299",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Manoeuvre_Abstract final.pdf-1676917289441",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Manoeuvre_Abstract-RSP BOT.pdf-1678169192043",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Manoeuvre_Abstract-TEAM ROBO STAR.pdf-1678168688649",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Manoeuvre_Abstract.docx-1678644771591",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Manoeuvre_Abstract.pdf-1678904533826",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Manoeuvre_Abstract.pdf-1679430125857",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Manoeuvre_Abstract.pdf-1679430180441",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Manoeuvre_Abstract1.pdf-1677608207319",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Manoeuvre_Abstract_Final.pdf-1677245741448",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Manoeuvre_Abstract_Final.pdf-1677245741673",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Manoeuvre_Abstract_Final.pdf-1677245745510",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Manoeuvre_Abstract_Final.pdf-1677245745789",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Manoeuvre_Abstract_Team Syndicate.docx-1676705207588",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Manoeuvre_Titanium Army_Techkriti.docx-1677251533239",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Manoeuvre_abstract.pdf-1677941005061",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Market Bulls.xlsx-1677772358627",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Market Bulls.xlsx-1677772429821",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Mav3rick_multirotoe.pdf-1677866187655",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Model preparation photos.zip-1676866841789",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Monarchs_Executive Summary_TECHKRITI_Pitch Premier.pdf-1677629316554",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Monarchs_Executive Summary_TECHKRITI_Pitch Premier.pdf-1677629379353",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/MultiRotor - Team Nemesis.pdf-1677607256447",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Multirotor Abstract (1).pdf-1676897106338",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Multirotor Abstract (1).pdf-1676897113167",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Multirotor Abstract (1).pdf-1676897115276",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Multirotor Abstract (1).pdf-1676897132766",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Multirotor Abstract (1).pdf-1676918779309",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Multirotor Abstract - SKYLER.pdf-1677263411017",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Multirotor Abstract .pdf-1676914858971",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Multirotor Abstract GamaFlight.pdf-1677252019622",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Multirotor Abstract Supersonix.pdf-1676917752325",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Multirotor Abstract for IIT Kanpur.pdf-1677244702758",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Multirotor Abstract new-1.docx-1677256111069",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Multirotor Abstract new-1.docx-1677256117196",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Multirotor Abstract new.pdf-1677218253441",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Multirotor Abstract team Garuda.pdf-1677223553435",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Multirotor Abstract-Devfolks.pdf-1678635787082",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Multirotor Abstract-ROBO STAR PRO.pdf-1678167646850",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Multirotor Abstract.docx (1).pdf-1678127030220",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Multirotor Abstract.docx-1676917364830",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Multirotor Abstract.pdf-1676980689536",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Multirotor Abstract.pdf-1677262618438",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Multirotor Abstract_1.pdf-1677258701446",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Multirotor Abstract_1.pdf-1677258762960",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Multirotor Final Abstract.pdf-1677348205909",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Multirotor_Abstract- Teamname_UVIRA_11- techid_13935 (1).pdf-1677261694303",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Multirotor_Abstract.pdf-1676914754540",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Multirotor_abstract final pdf.pdf-1676913758793",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/My stocks.xlsx-1677776456047",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/NANOMITE RC Skysparks Abstract.pdf-1676915573111",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/NIE Aerotantrix Abstract-Final.pdf-1677515197666",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Naam (1) (2) (1).pdf-1677598921634",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Naam (1) (2) (1).pdf-1677599338906",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Naam (1) (2) (1).pdf-1677599340466",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Net india Presantation.pdf-1677170655607",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/ONE SHOT LEVELLER.pdf-1676298256821",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/ORNITHOPTER.docx-1677867524115",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/ORNITHOPTER.docx-1677867543650",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/ORNITHOPTER.docx-1677867545184",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/ORNITHOPTER.docx-1677867559466",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/ORNITHOPTER.docx-1677867581048",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/ORNITHOPTER.docx-1677867594398",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/ORNITHOPTER.docx-1677867597649",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/ORNITHOPTER.docx-1677867598485",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/ORNITHOPTER.docx-1677867824262",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/ORNITHOPTER.docx-1677867836896",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/ORNITHOPTER.docx-1677867856113",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/ORNITHOPTER.pdf-1677867679614",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/ORNITHOPTER.pdf-1677867726398",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/PEGASUS_UAV_TECH KRITI.pdf-1676916187859",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/PIC.jpg-1677226608054",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/PIC.jpg-1677226637437",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/PP_44256.docx.pdf-1678040369411",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/PUSHPAK-2.pdf-1676884836296",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Pankh .pdf-1676911531009",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Pitch Premier Abstract- DevFolks.pdf-1678627097923",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Pitch Premier Executive Summary, Techkriti'23.docx-1678374288025",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Pitch Premier Executive Summary, Techkriti'23.docx.pdf-1676892878652",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Pitch Premier Executive Summary, Techkriti'23.docx.pdf-1676892882784",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Pitch Premier Executive Summary, Techkriti'23.docx.pdf-1676892883626",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Pitch Premier Executive Summary, Techkriti'23.docx.pdf-1677051072981",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Pitch Premier Executive Summary, Techkriti'23.docx.pdf-1677864101472",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Pitch Premier Executive Summary, Techkriti'23.pdf-1677246310192",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Pitch Premier Executive Summary, Techkriti'23.pdf-1677260505119",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Pitch Premier Executive Summary, Techkriti'23.pdf-1677261749709",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Pitch Premier Executive Summary, Techkriti'23.pdf-1677262940244",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Pitch Premier Executive Summary, Techkriti'23.pdf-1677263225974",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Pitch Premier Executive Summary, Techkriti'23.pdf-1678028968194",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Pitch Premier Executive Summary, Techkriti'23.pdf-1678556963802",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Pitch Premier Executive Summary, Techkriti'23.pdf-1678901386098",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Pitch Premier Executive Summary, Techkriti'23_INFILIFE EARTH.pdf-1677000275704",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Pitch Premier Executive Summary.pdf-1678260346844",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Pitch Premiere_Pitchers.pdf-1677684798905",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Pitch Premiere_Pitchers.pdf-1677684799119",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Pitch premier.pdf-1677258962644",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Pitch-Premier-Executive-Summary-Techkriti23-Team-XCoder.pdf-1677245804670",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Portable water distiller.docx-1677263207943",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Portfolio Techkriti'23.xlsx-1677864056280",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Portfolio.png-1677867918044",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Portfolio_Stalkers.xlsx-1677849186688",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Portfolio_Stalkers.xlsx-1677849211065",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Product Showdown.pdf-1677258752238",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Provisional Receipt.pdf-1673546332791",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Provisional Receipt.pdf-1673546405556",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Provisional Receipt.pdf-1673546534012",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Provisional Receipt.pdf-1673546554410",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Provisional Receipt.pdf-1673546686491",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Provisional Receipt.pdf-1673547188037",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Pushpak abstract.rar-1676910113567",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Python.pdf-1677106958886",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/RAM SETU BDC'23.pdf-1677515589632",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/RAM SETU BDC'23.pdf-1677515592490",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/REDIVIVUS_Saksham_Arora.pdf-1677935770700",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/ROBOGAMES 2023(IARC).pdf-1677174761854",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/ROBUST WHEELS_IARC.docx-1677257713881",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/ROOMDZIREPPT [Autosaved]-1.pptx-1676027659720",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robo wars CRAZY THINKERS.pdf-1677262850884",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robo wars CRAZY THINKERS.pdf-1677262896469",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robo wars CRAZY THINKERS.pdf-1677262921824",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/RoboGames_Atomix_Manoeuvre.pdf-1677091977749",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames (TechAmigoz) Manoeuvre.docx-1678035799692",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames - Team Scarlet - Robowars.pdf-1677598385167",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames Abhimnyu IARC.pdf-1677262427505",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames Abhimnyu IARC.pdf-1677262431664",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames Anubis Robowar.pdf-1677252890714",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames Autobots IARC.pdf-1677465900002",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames Black Pearl Manoeuvre.pdf-1677672422236",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames Carambit Robowar.pdf-1677263367913",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames Dominants Robowars.pdf-1677263391278",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames Dominants Robowars.pdf-1677263394674",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames Dominants Robowars.pdf-1677263395741",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames Dominants Robowars.pdf-1677263395909",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames Dominants Robowars.pdf-1677263396070",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames Dominants Robowars.pdf-1677263396238",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames Dominants Robowars.pdf-1677263396386",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames Dominants Robowars.pdf-1677263396553",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames Dominants Robowars.pdf-1677263396699",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames Dominants Robowars.pdf-1677263396860",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames Dominants Robowars.pdf-1677263397021",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames Dominants Robowars.pdf-1677263397187",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames Dominants Robowars.pdf-1677263397343",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames Dominants Robowars.pdf-1677263397488",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames Dominants Robowars.pdf-1677263397652",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames Dominants Robowars.pdf-1677263397803",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames Dominants Robowars.pdf-1677263398031",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames Dominants Robowars.pdf-1677263402522",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames Dominants Robowars.pdf-1677263402670",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames Endurance IARC.pdf-1677241033745",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames Nebula IARC.pdf-1677263231008",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames Nebula IARC.pdf-1677263233384",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames Nebula IARC.pdf-1677263233834",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames Nebula IARC.pdf-1677263234042",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames Nebula IARC.pdf-1677263234215",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames Nebula IARC.pdf-1677263234340",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames Nebula IARC.pdf-1677263238909",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames Nebula IARC.pdf-1677263239104",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames Nebula IARC.pdf-1677263239283",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames Nebula IARC.pdf-1677263239456",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames Nebula IARC.pdf-1677263239621",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames Nebula IARC.pdf-1677263239801",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames Nebula IARC.pdf-1677263239980",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames Nebula IARC.pdf-1677263240147",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames Nebula IARC.pdf-1677263240313",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames Nebula IARC.pdf-1677263240493",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames Nebula IARC.pdf-1677263240659",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames Nebula IARC.pdf-1678273469175",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames R-Alpha Manoeuvre.pdf-1677246113763",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames R-Alpha Manoeuvre.pdf-1677246119309",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames RNXG - Nano Manoeuvre.pdf-1677262813228",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames Rnxg-pi IARC.pdf-1677263253357",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames Rnxg-pi Manoeuvre.pdf-1677261296389",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames Robo Soldier Techkriti.pdf-1677608640629",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames Sparkles Techkriti '23.pdf-1677608676832",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames Team Dominator Monouvre.pdf.pptx-1678043329819",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames Team Dominator Robowar.pdf.pptx-1678128443343",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames Team Dominator Robowar.pdf.pptx-1678128445561",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames TechFolks Manoeuvre.pdf-1677252870469",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames The Tech Guys IARC.pdf-1677255345107",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames Thinkbotians Manoeuvre.pdf-1677177664072",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames Yudhishthira Manoeuvre.pdf-1677254602580",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames Yudhishthira Manoeuvre.pdf-1677254605390",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames Yudhishthira Manoeuvre.pdf-1677254606558",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames Yudhishthira Manoeuvre.pdf-1677254606752",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames Yudhishthira Manoeuvre.pdf-1677254606939",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames Yudhishthira Manoeuvre.pdf-1677254607097",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames Yudhishthira Manoeuvre.pdf-1677254607270",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames Yudhishthira Manoeuvre.pdf-1677254607495",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames team_ROBOGYAN Robowars.pdf-1677617749118",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames team_ROBOGYAN Robowars.pdf-1677617802891",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames team_ROBOGYAN Robowars.pdf-1677617900643",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames- Spectra Robowars.docx-1676974850874",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames--Dropforge-Robowars.pdf-1677522935111",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames-Falcons-Manoeuvre.pdf-1677262350169",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames.pdf-1677263188609",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames.pdf-1677263313557",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames: Operation Kriti IARC.pdf-1677258096291",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames: Operation Kriti IARC.pdf-1677258277346",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames: Robogyan Hovermania.pdf-1677611145541",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames_ <Path Finders> IARC.pdf-1677524695765",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames_ FD II ROBOTICS Robowars.pdf-1677262350082",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames_ _Ghost_ IARC.pdf-1677363251566",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames_ _Iravati_ IARC.pdf-1678437290448",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames_ _RNXG-Nano_ IARC.pdf-1677263023268",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames_ _Road Beast_Manoeuvre (1).pdf-1677780547616",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames_Astriek_IARC.pdf-1676917671701",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames_DREAMERS_  Manoeuvre.pdf-1676917264458",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames_DragSter_Manoeuvre.pdf-1677776288635",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames_DreadClaw_Manoeuvre.pdf-1677606425765",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames_Endurance Manoeuvre.pdf-1677262928095",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames_Endurance Manoeuvre.pdf-1677262928244",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames_Endurance Manoeuvre.pdf-1677262928512",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames_Endurance Manoeuvre.pdf-1677262928668",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames_Endurance Manoeuvre.pdf-1677262928817",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames_Endurance Manoeuvre.pdf-1677262936749",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames_Endurance Manoeuvre.pdf-1677262936867",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames_Endurance Manoeuvre.pdf-1677262936996",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames_Endurance Manoeuvre.pdf-1677262937129",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames_Endurance Manoeuvre.pdf-1677262937263",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames_Endurance_Hovermania.pdf-1677262916446",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames_Golden Arms _Manoeuvre.pdf-1677401453019",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames_HELLO WORLD!   MANOEUVRE.docx-1677700492131",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames_MOSFET_IARC.pdf-1677260779771",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames_MOSFET_Manoeuvre.pdf-1677260723668",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames_Poku_Manoeuvre.pdf-1676915255889",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames_RNXG_01Manoeuvre.pdf-1677260277419",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames_Robogyan Jr._Hovermania.pdf-1677611144207",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames_SynergyIARC.pdf-1677163412032",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames_SynergyManoeuvre.pdf-1677163383542",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames_TARS_ IARC.pdf-1677242878328",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames_XersiaManoeuvre.pdf-1677609127336",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames__ATOM_IARC.pdf-1677086584337",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogames__ATOM_IARC.pdf-1677086675645",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robogyan_Embedded.pdf-1677687441495",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robot.pdf-1677245416034",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robowar.docx-1677255096367",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robowar.pdf-1676894916688",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robowar.pdf-1676894945620",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/RobowarJEC.pdf-1676909918177",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robowars_IITG.pdf-1677250841904",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Robust wheels_Manoeuvre.docx-1677257679826",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/RoyalKTC BDC'23.pdf-1678127168623",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/SAAP_Manoeuvre.docx-1677518779862",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/SANAM Embedded Abstract.pdf-1677263422497",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/SKYSPARKS (1).docx-1677851370888",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/SKYSPARKS (1).docx-1677851379430",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/SKYSPARKS (1).docx-1677851380188",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/SKYSPARKS (1).docx-1677851380394",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/SKYSPARKS (1).docx-1677851380550",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/SKYSPARKS (1).docx-1677851380671",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/SKYSPARKS (1).docx-1677851380819",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/SKYSPARKS (1).docx-1677851380988",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/SKYSPARKS (1).docx-1677851381205",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/SKYSPARKS (1).docx-1677851381529",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/SKYSPARKS (1).docx-1677851382310",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/SKYSPARKS ABSTRACT - (UPLINE CRAFTS) .pdf-1676832182801",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/SKYSPARKS-2.docx-1677756277621",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/SKYSPARKS-2.docx-1677756283097",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/STOCK NAME.docx-1677866045007",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/STOCK NAME.docx-1677866055110",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/STOCK NAME.docx-1677866109633",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Sample portfolio.xlsx-1677867905104",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Screenshot_2023-03-01-16-39-52-128_com.google.android.apps.docs.jpg-1677669024931",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Screenshot_2023-03-10-23-49-57-15_f90b96e7af3c5a594eb0c92de7fc5fe1.jpg-1678472410446",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Screenshot_2023-03-10-23-49-57-15_f90b96e7af3c5a594eb0c92de7fc5fe1.jpg-1678472412108",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Screenshot_2023-03-10-23-49-57-15_f90b96e7af3c5a594eb0c92de7fc5fe1.jpg-1678472413268",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Screenshot_20230210_125958.jpg-1676043034010",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Screenshot_20230220-203055_Chrome.jpg-1676905272695",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Screenshot_20230224_233221.jpg-1677261766322",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Screenshot_20230309-215123_Sheets.jpg-1678378896763",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Screenshot_20230309-215123_Sheets.jpg-1678378898814",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Silverline Robotics.pdf-1676632006376",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Sky Hunters abstract.pdf-1676911176061",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Skyskarks.techkriti.zip-1676914080934",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Skysparks Abstract (1).docx-1677262966569",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Skysparks Abstract (1).pdf-1676907277080",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Skysparks Abstract (1).pdf-1676908026080",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Skysparks Abstract (1).pdf-1676908515082",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Skysparks Abstract (1).pdf-1677261687204",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Skysparks Abstract (1).pdf-1677261699307",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Skysparks Abstract (1).pdf-1677867114488",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Skysparks Abstract (3).pdf-1677433133971",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Skysparks Abstract (Team Tanish Rc).pdf-1676832235981",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Skysparks Abstract (plane).pdf-1677601255389",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Skysparks Abstract 4.pdf-1678092301194",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Skysparks Abstract JAIPURMANIA-2.pdf-1676914907882",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Skysparks Abstract Team BAAZ.docx-1677214209234",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Skysparks Abstract Team BAAZ_1.pdf-1677216869816",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Skysparks Abstract Team id 11000.pdf-1677605405271",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Skysparks Abstract Yawlevate.pdf-1677610910734",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Skysparks Abstract final.pdf-1677867639451",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Skysparks Abstract new.docx-1677256169795",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Skysparks Abstract new.pdf-1677217795372",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Skysparks Abstract.docx-1676912852362",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Skysparks Abstract.docx-1676912919994",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Skysparks Abstract.docx-1677205402382",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Skysparks Abstract.docx.pdf-1677609614942",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Skysparks Abstract.pdf-1676901915407",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Skysparks Abstract.pdf-1676909661434",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Skysparks Abstract.pdf-1676911456143",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Skysparks Abstract.pdf-1677256349569",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Skysparks Abstract.pdf-1677522573816",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Skysparks Abstract.pdf-1677651585855",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Skysparks Abstract.pdf-1677651588369",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Skysparks Abstract.pdf-1678358795211",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Skysparks Abstract_Aviantuim.pdf-1677867691268",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Skysparks Abstract_Canary.pdf-1676915654163",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Skysparks Abstract_Final.pdf-1676876550921",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Skysparks Abstract_Final.pdf-1676876592412",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Skysparks Abstract_Team Griffin.docx-1676912043958",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Skysparks Endurance Abstract.pdf-1677262977454",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Skysparks Endurance Abstract.pdf-1677262978113",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Skysparks Endurance Abstract.pdf-1677262978268",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Skysparks Endurance Abstract.pdf-1677262978412",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Skysparks Endurance Abstract.pdf-1677262978836",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Skysparks Endurance Abstract.pdf-1677262979216",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Skysparks Endurance Abstract.pdf-1677262979366",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Skysparks Endurance Abstract.pdf-1677262979538",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Skysparks Endurance Abstract.pdf-1677262979709",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Skysparks Endurance Abstract.pdf-1677262979873",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Skysparks Endurance Abstract.pdf-1677262980022",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Skysparks_Abstract_Final (1).pdf-1678035532545",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Skysparks_abstract_techid_13935.pdf-1677263208608",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Smart Attendance System.pdf-1678035547812",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Snipers_Vinay (1).xlsx-1678296173567",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Snoofers.deck2.pdf-1676012338724",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Snoofers.deck2.pdf-1676012453591",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Solo - Pitch Premier Executive Summary, Techkriti '23.pdf-1677262231548",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Space Tube - Team Atlas.pdf-1677262682992",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Space debris collecting Robot.docx-1677261271796",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/SpeedBird.docx-1676899013014",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Stock Trading Final.xlsx-1677866015737",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Stratosphere_JU_Abstract (1).zip-1677090811563",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Stratosphere_JU_Abstract.zip-1676907836882",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Submission - Copy.xlsx-1677614243689",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/TEAM AUTOBOT01.pdf-1677523041238",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/TEAM FR-04 Skysparks Abstract.pdf-1676901159973",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/TEAM ICES.pdf-1676900715302",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/TEAM KNIGHTS.xlsx-1677776516746",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/TEAM LAKSHYA.pdf-1677260942220",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/TEAM NAME_JATAYU.pdf-1677604980134",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/TEAM NAME_JATAYU.pdf-1677604994229",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/TEAM NAME_JATAYU.pdf-1677605008252",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/TEAM SKY HUSTLERS.pdf-1677261293594",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/TEAM SPARKZ_EMBEDDED_TECHKRITI_2023.pdf-1676917451635",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/TEAM SPARKZ_EMBEDDED_TECHKRITI_2023.pdf-1676917451854",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/TEAM VARPS ABSTRACT .docx-1676915779272",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/TEAM VAYU ABSTRACT.docx-1676913793493",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/TECH GLADIATORS.pdf-1677251462622",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/TECHKRITI 23.pdf-1678651921622",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/TECHKRITI ABSTRACT.pdf-1676911832536",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/TECHKRITI.pdf-1676278722499",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/TECHKRITI.pdf-1676278726177",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/TFC Techkriti.docx-1676916528692",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/TFC Techkriti.docx-1676916565568",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/TIC UVira 5188.docx-1677264595344",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/TIC- Unmanned Underwater Vehicle for Exploring Aquatic Ecosystem- DMET.pdf-1677391711003",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/TIC-Adyant-IITB Rocket Team-Abhinav.pdf-1678750862934",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/TIC-Analysis_of_Ed-tech_companies-Bias.pdf-1677863442203",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/TIC-Climate_clock_challenge-Incognito.pdf-1676953888015",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/TIC-Creating a market for Indian drones, especially in agricultural areas-RNXG_01 (1).pdf-1677941114843",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/TIC-Creating a market for Indian drones, especially in agricultural areas-RNXG_01.pdf-1677260338174",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/TIC-EVs monitoring device-Robogyan.pdf-1679236780839",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/TIC-Energy Crises-Innodomini.pdf-1677222162055",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/TIC-Increasing_Market_Penetration_of_EVs-Mechanix.pdf-1678036986098",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/TIC-LED PROJECT-EVOLUTION.pdf-1676897510243",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/TIC-Online_Fraud_Detection-Fire_n_Ice.pdf-1677253587135",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/TIC-Online_Fraud_Detection-Fire_n_Ice.pdf-1677253609386",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/TIC-Online_Fraud_Detection-Fire_n_Ice.pdf-1677255193620",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/TIC-SMART IRRIGATION TECHNIQUE-TEAM IIITDMJ.pdf-1677952070061",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/TIC-Seaweed_Biofuel-Genius_Gang.pdf-1677866169568",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/TIC-Unmanned_underwater_vehicle-NMTechnophiles.pdf-1676829940941",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/TIC-Unmanned_underwater_vehicle-NMTechnophiles.pdf-1676829943562",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/TIC-abstract-submission-software-2022.pdf-1677608678317",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/TIC-abstract-submission-software-2022.pdf-1677608707923",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/TIC-unipolar_programmed_supercapacitor-RYM_Grenergy.docx-1679158137345",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/TIC_Energy_Crises-PowerCon.pdf-1677964590541",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/TK1.zip-1676917685780",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/TMC_BDC.docx.pdf-1677256010717",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/TRADE OPS 2.OS.mp4-1676364238848",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/TRAILBLAZER'S abstract (1).xlsx-1677863489012",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/TRAILBLAZER'S abstract.xlsx-1677859076334",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Team AIRIENO (2).pdf-1677251811418",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Team AIRIENO (2).pdf-1677251815060",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Team AIRIENO.docx-1677251185226",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Team Aarush -Abstract.pdf-1676917133097",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Team Aarush -Abstract.pdf-1676917135961",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Team Aarush -Abstract.pdf-1676917136138",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Team Aarush -Abstract.pdf-1676917136314",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Team Aerophile.pdf-1677262073009",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Team Aireino 2.zip-1677163304876",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Team Atlas.pdf-1677261777194",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Team Aurobi_Upstart Pioneer Executive Summary, Techkriti' 23.pdf-1677604943424",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Team Aviona.zip-1677260752540",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Team Aviona.zip-1677260759195",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Team Credit Circle Selection Round 1.xlsx-1677778328708",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Team Drishti.zip-1677258420869",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Team Falcon, amity uni noida.docx-1676915846980",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Team FalconX abstract.pdf-1677605930217",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Team Name – Spark.pdf-1677256036810",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Team Name – Spark.pdf-1677260441593",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Team Name – Spark.pdf-1677261323658",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Team Nemesis (1).pdf-1677522514895",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Team ORNIS.zip-1677263001503",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Team R-Alpha Egg Drop Challenge abstract.docx-1678648282223",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Team Sky lte.pdf-1676961669030",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Team Sky lte.pdf-1676972394520",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Team Sky lte.pdf-1676972417733",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Team Sky lte.pdf-1676972433996",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Team Skytroopers Report.pdf-1676915345570",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Team-Atmos.pdf-1676916796325",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Team-Uvira_Bio-inspired robotic predatory bird Techkriti.pdf-1677605675553",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Team_Avatar.pdf-1679161304407",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Team_Avatar.pdf-1679161356285",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Team_Flash.pdf-1676914214495",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Techkriti - Team Astrionics.zip-1676911863558",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Techkriti Innovation Challange.pdf-1677258269741",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Techkriti Submission.xlsx-1678043483417",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Techkriti abs.pdf-1677867162889",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Techkriti- Team Vajra (Automated Pothole Detection and Repairing System).pdf-1677262918982",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Techkriti- Team Vajra (Automated Pothole Detection and Repairing System).pdf-1677262921589",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Techkriti.zip-1676904343080",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Techkriti_Kounselo.pages-1677771658114",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Techkriti_TEAM_NUTandBOLT.pdf-1677228097805",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Techkriti_Team_Insidious.pdf-1676866581061",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Techkriti_Team_NUTandBOLT.pdf-1677226651879",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Techkriti_Team_NUTandBOLT.pdf-1677226687381",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Techriti_Skysparks_Super Paradise Team_Abstract (3).docx-1676804525410",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Techriti_Skysparks_Super Paradise Team_Abstract (3).docx-1676804526810",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Techriti_Skysparks_Super Paradise Team_Abstract (3).docx-1676804526993",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Techriti_Skysparks_Super Paradise Team_Abstract.pdf-1676804643047",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Tetris.pdf-1677261048020",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Tetris.pdf-1677261056917",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Tetris.pdf-1677261057938",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/The Wolfs Of K-Street.xlsx-1677853956068",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/TheIcahns_39562.xlsx-1677867669860",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/TheIcahns_39562.xlsx-1677947863074",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Trading.xlsx-1678879759782",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Trading_Techkriti.xlsx-1678040662530",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Trading_teamInvestoguru_Abstract.docx-1676915288209",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Trading_teamInvestoguru_Abstract2.docx-1676975997814",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Trading_teamInvestoguru_Abstract42.docx-1676978778201",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Untitled design.pdf-1677311763893",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Untitled design.pdf-1677311901076",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Untitled spreadsheet.xlsx-1677867901491",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Untitled spreadsheet.xlsx-1677867923787",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Upstart Pioneer Abstract- DevFolks.pdf-1678627123679",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Upstart Pioneer Executive Summary, Techkriti' 23. EUPHELITY.docx-1676654866174",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Upstart Pioneer Executive Summary, Techkriti' 23.pdf-1676822143469",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Upstart Pioneer Executive Summary,Techkriti' 23 .pdf-1678029018159",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Upstart Pioneer_Pitchers.pdf-1677684863105",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/VID_20230115_213824.mp4-1673798911108",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Vanshika agarwal pIc (2).jpg-1676297067289",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Video_Enhancer.pdf-1677603909317",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Watch for Perkinson Disease.docx-1676917830585",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Watch for Perkinson Disease.docx-1676917841288",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Watch for Perkinson Disease.docx-1676917868065",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/WhatsApp Image 2022-11-02 at 20.49.07.jpg-1678283993979",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/WhatsApp Image 2023-02-24 at 10.42.05 PM.jpeg-1677259329046",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/WiGSM Innovators Abstract.pdf-1677262094847",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/WingWizard.pdf-1677255208728",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/XSPARK-ABSTRACT-IITK.pdf-1676822627388",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Zero Turing Radius Vehicle.docx-1676917476433",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Zero Turing Radius Vehicle.docx-1676917480730",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Zip A.zip-1677258826640",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Zip B.zip-1677258870854",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/Zip C.zip-1677258774108",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/_ “Robogames_ _Team Phoenix_ Robowars”.pdf-1677261059996",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/_Abstract_Robowars.pdf-1677573198417",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/_Trojans_ Manoeuvre.pdf-1677270837185",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/abstract 1.pdf-1676799876238",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/abstract final.docx-1677506115299",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/abstract for techkriti_embedded.pdf-1677763976236",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/abstract for techkriti_embedded.pdf-1677763978539",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/abstract for techkriti_embedded.pdf-1677763979083",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/abstract for techkriti_embedded.pdf-1677763979284",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/abstract real.pdf-1677259899955",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/abstract techkirti'23.pdf-1677254960497",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/abstract-iitk.pdf-1678023915840",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/abstract.pdf-1676917364165",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/abstract.pdf-1677601928654",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/abstract.pdf-1677665093353",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/abstract.pdf-1677665094931",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/abstract.pdf-1677665095543",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/abstract.pdf-1677665095716",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/abstract.xlsx-1678464845902",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/abstract_star_searchers.pdf-1677914087466",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/b9793008c023d8d1.jpeg-1677432374429",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/b9793008c023d8d1.jpeg-1677432972447",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/beat_the_market.xlsx-1678452286001",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/byte busters abstract .pdf-1677747839674",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/carbon neutral buildings.docx-1676916769800",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/carbon neutral buildings.docx-1676916829583",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/case study final.xlsx-1678027992236",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/discounts-and-offers-1605624171.gif-1676655198869",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/double trio 1.1.pdf-1677601684557",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/editedSkysparks _Abstract.pdf-1677609531268",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/embedded system.pdf-1677499449364",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/embedded.pdf-1676913763525",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/embedded.pdf-1676913766517",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/fa 1.pdf-1676915925901",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/final abstract 1.pdf-1677256434929",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/flyers[1].pdf-1677173598767",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/gripper.pdf-1677256188070",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/harpyeagles_robowar.pdf-1677092180060",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/home automation.pdf-1676916475662",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/hovercraft Techkriti.pdf-1677333387520",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/i Bulls.mp4-1677760514310",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/iit kanpur.docx-1677771747578",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/iitk (1).docx-1678446985160",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/iitk er.pdf-1676897258029",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/images (3).jpg-1677169090770",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/images.jpeg-1675914331207",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/images.jpg-1676713241443",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/images.jpg-1677040748988",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/jatayu.xlsx-1678473075583",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/jsonviewer.csv-1672839003294",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/kanpur.pdf-1677176900750",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/katappa.pdf-1677266595020",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/mano1.pdf-1677257809255",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/mano2.pdf-1677257874063",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/multirotor 21.docx (1).pdf-1677517278044",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/multirotor 21.docx (1).pdf-1677517278824",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/my drop.docx-1676917729548",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/nut and bolts _ritesh.pdf-1677260183866",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/ocean_beach_aerial_view_134429_1280x800.jpg-1676973779840",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/ocean_beach_aerial_view_134429_1280x800.jpg-1676973781433",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/parshu(1).pdf-1677257709585",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/portofolio team noobie.xlsx-1677998711163",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/robogame Science Musketeers Manoeuvre .pdf-1678124257637",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/robowars gigachad abstract.pdf-1677170308049",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/sbidecmess.pdf-1672601180526",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/sbidecmess.pdf-1672605349844",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/skyspark iit kanpur.pdf-1677262049925",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/skyspark iit kanpur.pdf-1677262660489",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/skysparks challengers.zip-1677263439306",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/solar purifier.pptx-1677114115190",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/speedbird abstract iitk.pdf-1677522431609",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/startup pitch[1]  -  Read-Only (1).pptx-1678619711501",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/stonks.xlsx-1678469551702",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/stonks.xlsx-1678469588485",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/team aireino 1.zip-1676693646248",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/team flying mustang (1).docx-1677603866666",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/team flying mustang (1).docx-1677603868996",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/team flying mustang.docx-1677257701176",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/team sigil.jpg-1675981172262",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/team victus.docx-1677522544342",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/team victus.docx-1677522546443",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/teamvayuyaangitabstract.pdf-1676911602405",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/tech.pdf-1677260236777",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/techkriti abstract.pdf-1676903529697",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/techkriti_team_BHANGARWALA.pdf-1677235193120",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/techriti_team_nutandbolt.pdf-1677233056681",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/think-twice-code-once.jpeg-1676874365788",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/tradetechkriti.xlsx-1678469118594",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/trading.xlsx-1677669786225",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/traffic.pptx-1677114549677",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/we'rit (2).pdf-1677246556515",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/weshowspeed.pdf-1676917791356",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/xcoders.2.pdf-1678727345225",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/xcoders.2.pdf-1678727455100",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/xcoders.2.pdf-1678727631298",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/xcoders.2.pdf-1678727663470",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/xcoders.2.pdf-1678727705594",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/xcoders.pdf-1678214356581",
+        "bucket": "samplemainsite.appspot.com"
+      },
+      {
+        "name": "files/xcoders.pdf-1678214398865",
+        "bucket": "samplemainsite.appspot.com"
+      }
+    ]
+  }

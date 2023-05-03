@@ -7,6 +7,7 @@ config = {
 }
 
 firebase = pyrebase.initialize_app(config)
+auth = firebase.auth()
 
 db = firebase.database()
 
@@ -14,6 +15,5 @@ storage = firebase.storage()
 def don(url):
     file = url.lstrip("files/")
     file = file[:-14]
-    storage.child(url).download(file,"Robogyan/Data/"+file)
-    
-don("files/Robowar.docx-1677255096367")
+    storage.child(url).download(file,"Robogyan/newData/"+file)
+  
